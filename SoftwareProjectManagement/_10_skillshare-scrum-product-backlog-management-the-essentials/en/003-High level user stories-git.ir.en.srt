@@ -1,0 +1,274 @@
+1
+00:00:00,699 --> 00:00:02,399
+Once you've got a product Vision,
+
+2
+00:00:02,500 --> 00:00:05,399
+you can start discovering high level user stories
+
+3
+00:00:05,500 --> 00:00:08,499
+based on your users needs before I start
+
+4
+00:00:08,599 --> 00:00:08,899
+with it.
+
+5
+00:00:09,000 --> 00:00:10,300
+Here's a disclaimer.
+
+6
+00:00:10,699 --> 00:00:13,700
+There are many ways to manage your product backlog in
+
+7
+00:00:13,800 --> 00:00:14,499
+this class.
+
+8
+00:00:14,599 --> 00:00:17,500
+I will show you my preferred way while I am
+
+9
+00:00:17,600 --> 00:00:18,600
+convinced of it.
+
+10
+00:00:18,699 --> 00:00:21,700
+Please experiment with it and find your own way
+
+11
+00:00:21,800 --> 00:00:22,399
+that fits.
+
+12
+00:00:22,500 --> 00:00:22,899
+Well,
+
+13
+00:00:24,399 --> 00:00:27,399
+let's revisit the example vision statement
+
+14
+00:00:27,500 --> 00:00:29,800
+fly often cheap and comfortable.
+
+15
+00:00:30,500 --> 00:00:32,200
+Other needs hidden in it.
+
+16
+00:00:32,899 --> 00:00:35,199
+If a person chooses to fly by plane,
+
+17
+00:00:35,299 --> 00:00:38,600
+she usually needs to travel to a distant location.
+
+18
+00:00:39,200 --> 00:00:42,100
+If she travels quite often that can be become
+
+19
+00:00:42,200 --> 00:00:43,500
+quite expensive.
+
+20
+00:00:43,799 --> 00:00:47,199
+So she has the need to save money either for herself
+
+21
+00:00:47,299 --> 00:00:50,199
+or for the company she works for and as she
+
+22
+00:00:50,299 --> 00:00:53,199
+needs to organize trips often doing so
+
+23
+00:00:53,299 --> 00:00:54,600
+should be comfortable.
+
+24
+00:00:55,000 --> 00:00:55,699
+For example,
+
+25
+00:00:55,799 --> 00:00:57,799
+the software should be easy to use.
+
+26
+00:00:59,600 --> 00:01:03,100
+So why even bother to think about the needs of the users?
+
+27
+00:01:03,399 --> 00:01:06,099
+Why not jump right into developing features?
+
+28
+00:01:06,400 --> 00:01:08,899
+Well when people use your software,
+
+29
+00:01:09,000 --> 00:01:11,999
+they don't do it because they like your software so much
+
+30
+00:01:12,099 --> 00:01:15,700
+or because it looks nice or is technologically advanced
+
+31
+00:01:16,000 --> 00:01:18,999
+they do it because it fulfills some neat they have and
+
+32
+00:01:19,099 --> 00:01:21,299
+that will make the software successful.
+
+33
+00:01:21,900 --> 00:01:24,899
+Another reason for thinking about needs is you
+
+34
+00:01:25,000 --> 00:01:27,700
+want to compare solutions to each other.
+
+35
+00:01:28,000 --> 00:01:30,899
+What is the best or cheapest solution for the user
+
+36
+00:01:31,000 --> 00:01:33,999
+or your company that fulfills the needs what
+
+37
+00:01:34,099 --> 00:01:37,500
+solution is the least effort and risk to develop?
+
+38
+00:01:38,500 --> 00:01:41,499
+Once you've got the needs you can start discovering the high
+
+39
+00:01:41,599 --> 00:01:44,600
+level user stories while the product owners
+
+40
+00:01:44,700 --> 00:01:46,599
+responsible for the outcome.
+
+41
+00:01:46,799 --> 00:01:50,100
+This is best done involving the whole scrum team a
+
+42
+00:01:50,200 --> 00:01:52,199
+popular format for documenting.
+
+43
+00:01:52,299 --> 00:01:55,500
+The results is as a user group.
+
+44
+00:01:55,700 --> 00:01:58,800
+I want the software to have a certain feature so
+
+45
+00:01:58,900 --> 00:02:01,999
+that a certain need is fulfilled here
+
+46
+00:02:02,099 --> 00:02:04,999
+are some examples as a frequent flyer.
+
+47
+00:02:05,099 --> 00:02:08,099
+I want to book a flight so that I can travel to a
+
+48
+00:02:08,300 --> 00:02:11,200
+The location or I want to get a discount
+
+49
+00:02:11,300 --> 00:02:14,300
+if I book often so that I can save money or
+
+50
+00:02:14,400 --> 00:02:17,399
+I want to read book a flight easily so that the booking
+
+51
+00:02:17,500 --> 00:02:20,500
+process is comfortable as you can see
+
+52
+00:02:20,599 --> 00:02:23,700
+the end of each of these sentences reflects the needs
+
+53
+00:02:23,800 --> 00:02:26,899
+we identified earlier and in the middle you see
+
+54
+00:02:27,000 --> 00:02:29,000
+how the software fulfills this need.
+
+55
+00:02:30,199 --> 00:02:33,300
+Some properties of good user stories are a
+
+56
+00:02:33,400 --> 00:02:36,399
+good user story is written from a user's perspective.
+
+57
+00:02:36,500 --> 00:02:39,599
+Not a technical perspective to make sure you fulfill
+
+58
+00:02:39,699 --> 00:02:42,800
+the users needs user stories are short
+
+59
+00:02:42,900 --> 00:02:45,800
+as you've seen in the examples that also means you
+
+60
+00:02:45,900 --> 00:02:48,800
+leave out the details at first you clarify the
+
+61
+00:02:48,900 --> 00:02:52,199
+details later shortly before implementing the story
+
+62
+00:02:52,800 --> 00:02:56,300
+stories are more about conversation than documentation.
+
+63
+00:02:56,599 --> 00:02:59,900
+So you use them to discuss ideas in the scrum team.
+
+64
+00:03:00,300 --> 00:03:03,900
+And document just enough to avoid for getting the results.
+
+65
+00:03:04,300 --> 00:03:07,200
+So it shouldn't be the product owner alone who comes up
+
+66
+00:03:07,300 --> 00:03:08,300
+with these stories.
+
+67
+00:03:08,500 --> 00:03:10,900
+This is really a whole team effort.
+
+
+
+
+
+
+

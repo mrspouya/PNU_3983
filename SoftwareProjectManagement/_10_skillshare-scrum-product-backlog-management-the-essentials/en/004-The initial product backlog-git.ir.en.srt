@@ -1,0 +1,360 @@
+1
+00:00:00,200 --> 00:00:03,299
+You need an initial product backlog as the starting point
+
+2
+00:00:03,399 --> 00:00:06,199
+for scrum based on the high-level stories.
+
+3
+00:00:06,299 --> 00:00:08,300
+You can create the initial backlog.
+
+4
+00:00:08,599 --> 00:00:11,599
+I like a technique called story mapping to do that and
+
+5
+00:00:11,699 --> 00:00:14,099
+I'll show you how to use it by example.
+
+6
+00:00:14,699 --> 00:00:15,599
+Let's revisit.
+
+7
+00:00:15,699 --> 00:00:17,000
+The high-level stories.
+
+8
+00:00:17,199 --> 00:00:20,200
+The first thing to do is to extract the features from
+
+9
+00:00:20,300 --> 00:00:21,100
+the stories.
+
+10
+00:00:21,399 --> 00:00:23,200
+If you do that in our example,
+
+11
+00:00:23,300 --> 00:00:26,200
+you get three features book flight get
+
+12
+00:00:26,300 --> 00:00:29,599
+discount and rebook flight easily What
+
+13
+00:00:29,699 --> 00:00:32,799
+would Happen now in practice is that your scrum team meets
+
+14
+00:00:32,899 --> 00:00:36,199
+for a story mapping Workshop the team notices
+
+15
+00:00:36,299 --> 00:00:39,399
+that booking a flight is the core workflow that everything
+
+16
+00:00:39,500 --> 00:00:40,700
+else depends upon.
+
+17
+00:00:41,100 --> 00:00:44,600
+So the team writes book flight on an orange sticky note.
+
+18
+00:00:45,100 --> 00:00:48,199
+It's orange as it is a user activity or in other
+
+19
+00:00:48,299 --> 00:00:51,199
+words a workflow with multiple tasks to be
+
+20
+00:00:51,299 --> 00:00:52,700
+performed by users.
+
+21
+00:00:53,899 --> 00:00:56,600
+What do users need to do to book a flight?
+
+22
+00:00:58,200 --> 00:01:01,399
+Let's say to book a flight a user needs to register
+
+23
+00:01:01,500 --> 00:01:02,799
+or login First.
+
+24
+00:01:03,000 --> 00:01:06,499
+So the team Hanks that sticky note on the left and subsequent
+
+25
+00:01:06,599 --> 00:01:09,800
+tasks to the right of it after logging
+
+26
+00:01:09,900 --> 00:01:11,500
+in She searches flights.
+
+27
+00:01:11,799 --> 00:01:14,699
+Then she picks a flight then she enters
+
+28
+00:01:14,799 --> 00:01:17,699
+payment information and finally she confirms
+
+29
+00:01:17,799 --> 00:01:18,500
+the booking.
+
+30
+00:01:19,900 --> 00:01:23,100
+What about the other features you extracted earlier get
+
+31
+00:01:23,200 --> 00:01:25,299
+discount and rebook flight easily.
+
+32
+00:01:25,900 --> 00:01:26,899
+The team's decides.
+
+33
+00:01:27,000 --> 00:01:30,799
+They should not be treated as user activities.
+
+34
+00:01:30,900 --> 00:01:34,200
+But as user tasks that aren't really separate workflows.
+
+35
+00:01:34,500 --> 00:01:38,099
+So the team integrates them in the book flight activity.
+
+36
+00:01:39,900 --> 00:01:43,799
+Here's the new book flight activity with all features integrated.
+
+37
+00:01:45,099 --> 00:01:48,699
+In any real-world application there will be more user activities.
+
+38
+00:01:48,799 --> 00:01:52,099
+For example one activity to manage the account
+
+39
+00:01:52,400 --> 00:01:55,699
+orange sticky notes are ordered left to right in the sequence.
+
+40
+00:01:55,799 --> 00:01:59,000
+They occur same as with the blue user tasks.
+
+41
+00:01:59,700 --> 00:02:02,600
+Now that we've got the activities and tasks the
+
+42
+00:02:02,700 --> 00:02:04,900
+so-called backbone of the story map.
+
+43
+00:02:05,000 --> 00:02:07,700
+We can start discovering the user stories.
+
+44
+00:02:08,599 --> 00:02:11,800
+You are team brainstorms what to do and arranges the stories
+
+45
+00:02:11,900 --> 00:02:15,099
+below the backbone you think about what to implement
+
+46
+00:02:15,199 --> 00:02:17,400
+first for the book flight activity.
+
+47
+00:02:17,699 --> 00:02:20,599
+What would be a minimum solution that shows you're on
+
+48
+00:02:20,699 --> 00:02:21,699
+the right track?
+
+49
+00:02:23,500 --> 00:02:25,500
+Here's what the team comes up with.
+
+50
+00:02:25,800 --> 00:02:26,999
+You can search for flights,
+
+51
+00:02:27,099 --> 00:02:29,599
+but only the flights of a single Airline.
+
+52
+00:02:29,900 --> 00:02:32,899
+You can pick a flight by a simple click and then you are directed
+
+53
+00:02:33,000 --> 00:02:34,099
+to the payment.
+
+54
+00:02:34,300 --> 00:02:37,399
+You can only pay with visa and confirm it with a simple
+
+55
+00:02:37,500 --> 00:02:38,400
+button press.
+
+56
+00:02:40,199 --> 00:02:41,000
+After that,
+
+57
+00:02:41,300 --> 00:02:44,599
+the developers will implement the login for convenience.
+
+58
+00:02:44,900 --> 00:02:47,999
+They will Implement searching for another airline when
+
+59
+00:02:48,099 --> 00:02:51,300
+the user picks a flight the software shows details about
+
+60
+00:02:51,400 --> 00:02:54,400
+it and you can pay with another credit card.
+
+61
+00:02:55,400 --> 00:02:58,499
+And finally the developers will Implement searching
+
+62
+00:02:58,599 --> 00:03:01,499
+various Airlines the software calculates and
+
+63
+00:03:01,599 --> 00:03:02,900
+shows the discount.
+
+64
+00:03:03,099 --> 00:03:05,300
+You can pay with several credit cards,
+
+65
+00:03:05,400 --> 00:03:08,300
+and there's a whole page summarizing the booking details
+
+66
+00:03:08,400 --> 00:03:09,500
+for you to confirm.
+
+67
+00:03:11,000 --> 00:03:13,899
+As you can see the vertical axis determines the
+
+68
+00:03:14,000 --> 00:03:16,899
+order of implementation stories at the top
+
+69
+00:03:17,000 --> 00:03:19,899
+are implemented first stories at the bottom are
+
+70
+00:03:20,000 --> 00:03:23,099
+implemented last instead of building the software
+
+71
+00:03:23,199 --> 00:03:24,099
+in one goal.
+
+72
+00:03:24,199 --> 00:03:27,199
+You build it up a territory flee and incrementally
+
+73
+00:03:27,300 --> 00:03:29,400
+to reduce development risk.
+
+74
+00:03:30,900 --> 00:03:33,599
+Once a team has built the stories on this map.
+
+75
+00:03:33,800 --> 00:03:36,800
+They ship the software to test users to get feedback.
+
+76
+00:03:36,900 --> 00:03:40,399
+If the software is very open and
+
+77
+00:03:40,500 --> 00:03:41,300
+there you are.
+
+78
+00:03:41,400 --> 00:03:43,800
+You've created the initial product backlog.
+
+79
+00:03:44,199 --> 00:03:44,300
+Now,
+
+80
+00:03:44,400 --> 00:03:48,300
+you may be wondering isn't the scrum backlog of flat ordered lists.
+
+81
+00:03:49,199 --> 00:03:49,899
+That's right,
+
+82
+00:03:50,000 --> 00:03:52,999
+and it's quite easy to convert the two-dimensional story
+
+83
+00:03:53,099 --> 00:03:56,099
+map to a one-dimensional scrum backlog you
+
+84
+00:03:56,199 --> 00:03:59,800
+simply number the stories from left to right and top to bottom.
+
+85
+00:04:00,300 --> 00:04:02,900
+That's the rank of your product backlog items.
+
+86
+00:04:03,300 --> 00:04:03,700
+Of course,
+
+87
+00:04:03,800 --> 00:04:06,300
+you can shift things around horizontally.
+
+88
+00:04:07,400 --> 00:04:10,399
+I prefer the two-dimensional story map as a backlog
+
+89
+00:04:10,500 --> 00:04:13,499
+though as it is a nice overview of the things
+
+90
+00:04:13,599 --> 00:04:14,699
+to be developed.
+
