@@ -1,0 +1,140 @@
+1
+00:00:01,450 --> 00:00:07,520
+[Music]
+
+2
+00:00:05,680 --> 00:00:08,240
+at this point in the hospital scheduling
+
+3
+00:00:07,520 --> 00:00:10,639
+project
+
+4
+00:00:08,240 --> 00:00:12,320
+you've created drafts of several
+
+5
+00:00:10,639 --> 00:00:15,040
+planning documents
+
+6
+00:00:12,320 --> 00:00:16,160
+but in the project world things change
+
+7
+00:00:15,040 --> 00:00:19,199
+and this project
+
+8
+00:00:16,160 --> 00:00:21,119
+is no exception the government has
+
+9
+00:00:19,199 --> 00:00:23,279
+launched a major initiative
+
+10
+00:00:21,119 --> 00:00:24,240
+in cancer research part of this
+
+11
+00:00:23,279 --> 00:00:26,880
+initiative is
+
+12
+00:00:24,240 --> 00:00:29,119
+using a common scheduling tool for all
+
+13
+00:00:26,880 --> 00:00:31,519
+cancer treatment facilities
+
+14
+00:00:29,119 --> 00:00:33,440
+brisland hospital's new cancer ward will
+
+15
+00:00:31,519 --> 00:00:34,320
+have to use the government scheduling
+
+16
+00:00:33,440 --> 00:00:36,079
+tool
+
+17
+00:00:34,320 --> 00:00:37,840
+instead of the solution that your
+
+18
+00:00:36,079 --> 00:00:39,280
+project will implement for the rest of
+
+19
+00:00:37,840 --> 00:00:41,360
+the hospital
+
+20
+00:00:39,280 --> 00:00:44,160
+in the exercise files there's a change
+
+21
+00:00:41,360 --> 00:00:47,039
+request submitted by the project manager
+
+22
+00:00:44,160 --> 00:00:47,440
+and approved by the project customer
+
+23
+00:00:47,039 --> 00:00:50,000
+this
+
+24
+00:00:47,440 --> 00:00:51,760
+change means that you'll have to revise
+
+25
+00:00:50,000 --> 00:00:54,320
+some planning documents
+
+26
+00:00:51,760 --> 00:00:55,440
+for this challenge take 20 to 30 minutes
+
+27
+00:00:54,320 --> 00:00:57,520
+to identify
+
+28
+00:00:55,440 --> 00:00:58,719
+which planning documents you need to
+
+29
+00:00:57,520 --> 00:01:01,120
+revise
+
+30
+00:00:58,719 --> 00:01:02,559
+and at a high level what you would
+
+31
+00:01:01,120 --> 00:01:05,280
+change
+
+32
+00:01:02,559 --> 00:01:06,320
+after you work through your solution
+
+33
+00:01:05,280 --> 00:01:09,080
+look at the files
+
+34
+00:01:06,320 --> 00:01:12,080
+i would revise in response to this
+
+35
+00:01:09,080 --> 00:01:12,080
+request
+

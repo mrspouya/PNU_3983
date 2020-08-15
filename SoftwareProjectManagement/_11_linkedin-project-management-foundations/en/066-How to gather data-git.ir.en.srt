@@ -1,20 +1,55 @@
-1
-00:00:00,340 --> 00:00:32,160
-marquise in love has a place like a tour
+11
+00:00:00,000 --> 00:00:04,320
+while work is under way you need to track how things are going
 
 2
-00:00:14,320 --> 00:00:32,160
-dates and finish by others
+00:00:04,560 --> 00:00:10,450
+what's been done what's left to do how long it took and what it cost
 
 3
-00:00:37,500 --> 00:01:09,479
-из фнб coast to coast to coast is even
+00:00:11,160 --> 00:00:19,920
+scheduling budget usually top the list so data like actual dates hours worked and money spend our given the first thing you need
 
 4
-00:01:11,399 --> 00:01:38,369
-in form and interesting facts free fonts
+00:00:20,760 --> 00:00:25,100
+attract progress is when to actually start if task
 
 5
-00:01:33,719 --> 00:01:38,369
-лакировка danfoss русский jumbo jet
+00:00:25,290 --> 00:00:30,610
+don't start when they're supposed to a delay in the project finish could be on the horizon
 
+6
+00:00:30,810 --> 00:00:36,440
+well tasks her underway get actual work hours or actual duration
+
+7
+00:00:36,640 --> 00:00:44,700
+tracking ours is a little more effort but it pays off with a more accurate picture of progress and labor costs
+
+8
+00:00:44,900 --> 00:00:49,350
+you also need to know how much worker duration is still left to complete
+
+9
+00:00:49,550 --> 00:00:56,360
+[UM] that way you know how much longer tasks will take and whether you're original estimate was on target
+
+10
+00:00:56,560 --> 00:01:04,379
+that's everything you need to track labor costs don't forget together other actual costs like travel
+
+11
+00:01:04,580 --> 00:01:11,720
+he's and training if you can set up an automated way to get the data unique
+
+12
+00:01:11,920 --> 00:01:22,870
+through email and online formed her in enterprise reporting tool it will free up time you can use to handle more important project management did
+
+13
+00:01:23,070 --> 00:01:26,930
+these progress data tells you where your project stands
+
+14
+00:01:27,130 --> 00:01:36,830
+and what it you need  to language your project  back on track  for practice created a form to collected the hospital scheduling project

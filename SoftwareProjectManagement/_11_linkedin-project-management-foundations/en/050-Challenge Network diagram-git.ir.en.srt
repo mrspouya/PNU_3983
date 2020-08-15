@@ -1,0 +1,42 @@
+1
+1
+00:00:05,550 --> 00:00:10,650
+
+The exercise files include a scenario where
+additional work is needed in the scheduling
+
+
+
+2
+2
+00:00:10,650 --> 00:00:15,630
+
+project to support tracking and
+managing costs for hospital procedures.
+
+
+
+3
+3
+00:00:16,380 --> 00:00:22,140
+
+In this challenge, spend about 15 minutes
+developing a network diagram for the task
+
+
+
+4
+4
+00:00:22,140 --> 00:00:26,100
+
+sequence that minimizes the time
+needed to complete this work.
+
+5
+
+
+5
+00:00:26,640 --> 00:00:31,170
+
+After you create your network diagram, compare
+it to the one I built.

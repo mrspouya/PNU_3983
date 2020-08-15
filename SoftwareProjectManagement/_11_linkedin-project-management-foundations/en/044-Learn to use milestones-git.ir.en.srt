@@ -1,0 +1,152 @@
+1
+1
+00:00:00,570 --> 00:00:06,540
+
+Milestones get their name from the past when people
+placed stones by the side of a road to
+
+2
+
+
+2
+00:00:06,540 --> 00:00:13,680
+
+mark each mile in projects, milestones do a
+similar job, but they show progress and other
+
+3
+
+
+3
+00:00:13,680 --> 00:00:16,250
+
+key project points rather than distance.
+
+4
+
+
+4
+00:00:17,010 --> 00:00:23,130
+
+They show when you've completed key tasks or portions
+of a project, and they make it easy
+
+5
+
+
+5
+00:00:23,130 --> 00:00:26,460
+to see how much you've
+completed and when it finished.
+
+
+6
+
+6
+00:00:27,350 --> 00:00:32,630
+
+Milestones are great as the first and last
+tasks in your project schedule, by starting a
+
+7
+
+
+7
+00:00:32,630 --> 00:00:37,970
+
+project with a milestone, you can reschedule the
+project start date just by moving the
+
+8
+00:
+
+8
+00:37,970 --> 00:00:40,180
+starting milestone to a later date.
+
+9
+
+
+9
+00:00:41,030 --> 00:00:47,180
+
+By looking at the final milestone, you can tell
+whether the project is on time, late or
+
+10
+
+
+10
+00:00:47,180 --> 00:00:53,670
+
+ahead of schedule. Milestones also help highlight
+progress you've made in between the
+
+11
+
+
+11
+00:00:53,670 --> 00:00:59,670
+
+projects start and finish when all the work
+leading up to that milestone is done, you
+
+
+
+12
+12
+00:00:59,670 --> 00:01:04,050
+
+have the satisfaction of marking
+off another milestone as complete.
+
+13
+
+
+13
+00:01:04,920 --> 00:01:09,900
+
+If you're waiting for someone to deliver something
+at a milestone to flag that delivery,
+
+14
+
+
+14
+00:01:10,530 --> 00:01:17,190
+
+finally use a milestone to flag decisions that
+determine what happens next in a project
+
+15
+15
+00:01:17,460 --> 00:01:22,710
+
+or use a milestone for an approval that
+determines when the work after the approval can
+
+16
+
+
+16
+00:01:22,710 --> 00:01:30,260
+
+start. Milestone's help indicate progress in a project
+when you link them to work tasks.
+
+17
+
+
+17
+00:01:30,560 --> 00:01:36,170
+
+You can also use them to reschedule
+portions of a project for practice.
+
+
+
+18
+18
+00:01:36,170 --> 00:01:40,430
+Add Milestone's to the network
+diagram in the exercise files.

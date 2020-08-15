@@ -1,0 +1,436 @@
+1
+00:00:00,560 --> 00:00:05,680
+a risk management plan documents
+
+2
+00:00:03,439 --> 00:00:08,400
+which risks you're going to worry about
+
+3
+00:00:05,680 --> 00:00:11,920
+and how you plan to handle them
+
+4
+00:00:08,400 --> 00:00:15,360
+first identify which risks warrant
+
+5
+00:00:11,920 --> 00:00:16,480
+managing start by evaluating how likely
+
+6
+00:00:15,360 --> 00:00:19,600
+they are and how
+
+7
+00:00:16,480 --> 00:00:22,800
+serious their impact would be
+
+8
+00:00:19,600 --> 00:00:25,840
+rate risks by probability and impact
+
+9
+00:00:22,800 --> 00:00:29,519
+using a scale of one to five where
+
+10
+00:00:25,840 --> 00:00:32,880
+one is unlikely or not serious
+
+11
+00:00:29,519 --> 00:00:34,239
+and five is highly likely or extremely
+
+12
+00:00:32,880 --> 00:00:36,960
+serious
+
+13
+00:00:34,239 --> 00:00:38,079
+then multiply the probability and impact
+
+14
+00:00:36,960 --> 00:00:42,160
+to calculate
+
+15
+00:00:38,079 --> 00:00:43,760
+a risk score it makes sense to manage
+
+16
+00:00:42,160 --> 00:00:47,440
+risks that are at least
+
+17
+00:00:43,760 --> 00:00:49,920
+fairly likely and serious that means
+
+18
+00:00:47,440 --> 00:00:50,480
+you need a plan for any risk with a
+
+19
+00:00:49,920 --> 00:00:54,640
+score
+
+20
+00:00:50,480 --> 00:00:57,360
+of nine or more for example
+
+21
+00:00:54,640 --> 00:00:57,840
+suppose older hospital computers are
+
+22
+00:00:57,360 --> 00:01:00,719
+very
+
+23
+00:00:57,840 --> 00:01:02,559
+likely to be incompatible with the new
+
+24
+00:01:00,719 --> 00:01:05,439
+scheduling systems
+
+25
+00:01:02,559 --> 00:01:06,320
+new computers increase the budget so the
+
+26
+00:01:05,439 --> 00:01:10,720
+impact is
+
+27
+00:01:06,320 --> 00:01:13,920
+very serious the risks score is 25
+
+28
+00:01:10,720 --> 00:01:16,799
+so you'll definitely need to manage it
+
+29
+00:01:13,920 --> 00:01:18,000
+risk 1's probability and impact are both
+
+30
+00:01:16,799 --> 00:01:20,960
+medium
+
+31
+00:01:18,000 --> 00:01:21,840
+its score is 9 and you need to plan for
+
+32
+00:01:20,960 --> 00:01:25,600
+it
+
+33
+00:01:21,840 --> 00:01:26,720
+risk 4 is fairly serious but it isn't
+
+34
+00:01:25,600 --> 00:01:30,240
+likely
+
+35
+00:01:26,720 --> 00:01:31,840
+its score is three so you won't plan for
+
+36
+00:01:30,240 --> 00:01:34,560
+it
+
+37
+00:01:31,840 --> 00:01:35,520
+next you plan how you'll handle each
+
+38
+00:01:34,560 --> 00:01:38,159
+risk
+
+39
+00:01:35,520 --> 00:01:40,560
+the goal of a risk response is to plan
+
+40
+00:01:38,159 --> 00:01:43,119
+the actions you would take to reduce
+
+41
+00:01:40,560 --> 00:01:44,960
+adverse consequences a risk might have
+
+42
+00:01:43,119 --> 00:01:47,920
+on your project
+
+43
+00:01:44,960 --> 00:01:49,840
+here are some risk responses you can use
+
+44
+00:01:47,920 --> 00:01:53,040
+the easiest option
+
+45
+00:01:49,840 --> 00:01:55,119
+is to accept the consequences
+
+46
+00:01:53,040 --> 00:01:56,399
+that's fine for risks with low
+
+47
+00:01:55,119 --> 00:02:00,320
+probability and
+
+48
+00:01:56,399 --> 00:02:02,479
+impact avoiding risk is another approach
+
+49
+00:02:00,320 --> 00:02:03,920
+for instance changing the project's
+
+50
+00:02:02,479 --> 00:02:07,439
+scope to remove
+
+51
+00:02:03,920 --> 00:02:08,000
+the risky part of the project mitigating
+
+52
+00:02:07,439 --> 00:02:10,160
+risk
+
+53
+00:02:08,000 --> 00:02:11,200
+means taking steps to reduce the
+
+54
+00:02:10,160 --> 00:02:14,319
+consequences
+
+55
+00:02:11,200 --> 00:02:16,959
+or impact of the risk for example
+
+56
+00:02:14,319 --> 00:02:18,400
+by running a feasibility study you'll
+
+57
+00:02:16,959 --> 00:02:20,400
+have a better idea
+
+58
+00:02:18,400 --> 00:02:21,520
+whether a scheduling system will meet
+
+59
+00:02:20,400 --> 00:02:24,560
+the schedule
+
+60
+00:02:21,520 --> 00:02:26,959
+budget and other objectives
+
+61
+00:02:24,560 --> 00:02:28,560
+transferring risk means handing off the
+
+62
+00:02:26,959 --> 00:02:31,360
+risk to someone else
+
+63
+00:02:28,560 --> 00:02:32,640
+like when you purchase insurance this
+
+64
+00:02:31,360 --> 00:02:36,160
+reduces risk
+
+65
+00:02:32,640 --> 00:02:36,720
+but doesn't eliminate it insurance might
+
+66
+00:02:36,160 --> 00:02:39,680
+relieve
+
+67
+00:02:36,720 --> 00:02:42,080
+costs it won't eliminate other factors
+
+68
+00:02:39,680 --> 00:02:44,879
+like time delays
+
+69
+00:02:42,080 --> 00:02:46,879
+make sure your responses aren't overkill
+
+70
+00:02:44,879 --> 00:02:50,560
+if a schedule delay triggers a
+
+71
+00:02:46,879 --> 00:02:51,040
+500 late fee it doesn't make sense to
+
+72
+00:02:50,560 --> 00:02:53,360
+spend
+
+73
+00:02:51,040 --> 00:02:54,879
+five thousand dollars to prevent the
+
+74
+00:02:53,360 --> 00:02:57,599
+delay
+
+75
+00:02:54,879 --> 00:02:59,440
+remember contingency time and funds can
+
+76
+00:02:57,599 --> 00:03:02,560
+be used to handle risks
+
+77
+00:02:59,440 --> 00:03:04,319
+that have no other response or to handle
+
+78
+00:03:02,560 --> 00:03:07,760
+risks you didn't identify
+
+79
+00:03:04,319 --> 00:03:09,599
+up front the final step in a risk
+
+80
+00:03:07,760 --> 00:03:11,920
+management plan is defining
+
+81
+00:03:09,599 --> 00:03:13,519
+how to monitor risks and measure
+
+82
+00:03:11,920 --> 00:03:16,000
+responses
+
+83
+00:03:13,519 --> 00:03:17,360
+create a risk log to summarize the risks
+
+84
+00:03:16,000 --> 00:03:20,080
+you'll manage
+
+85
+00:03:17,360 --> 00:03:21,120
+for each risk include a description of
+
+86
+00:03:20,080 --> 00:03:23,680
+the risk
+
+87
+00:03:21,120 --> 00:03:24,799
+the events or circumstances that trigger
+
+88
+00:03:23,680 --> 00:03:27,760
+the risk
+
+89
+00:03:24,799 --> 00:03:29,280
+the probability and impact the response
+
+90
+00:03:27,760 --> 00:03:32,400
+you've chosen
+
+91
+00:03:29,280 --> 00:03:33,920
+who will monitor the risk the result you
+
+92
+00:03:32,400 --> 00:03:37,120
+expect from the response
+
+93
+00:03:33,920 --> 00:03:39,440
+if you have to use it and finally the
+
+94
+00:03:37,120 --> 00:03:42,720
+risk status
+
+95
+00:03:39,440 --> 00:03:45,200
+keep your risk plan up to date as the
+
+96
+00:03:42,720 --> 00:03:47,599
+project progresses
+
+97
+00:03:45,200 --> 00:03:48,640
+some risks become less likely as time
+
+98
+00:03:47,599 --> 00:03:50,959
+passes
+
+99
+00:03:48,640 --> 00:03:52,640
+other risks may be introduced because of
+
+100
+00:03:50,959 --> 00:03:55,599
+project changes
+
+101
+00:03:52,640 --> 00:03:56,159
+risks occur so you track what caused
+
+102
+00:03:55,599 --> 00:03:58,879
+them
+
+103
+00:03:56,159 --> 00:04:00,319
+their impact and whether your responses
+
+104
+00:03:58,879 --> 00:04:02,560
+are working
+
+105
+00:04:00,319 --> 00:04:03,599
+a risk management plan helps protect
+
+106
+00:04:02,560 --> 00:04:06,640
+your project from
+
+107
+00:04:03,599 --> 00:04:09,200
+things that can go wrong for practice
+
+108
+00:04:06,640 --> 00:04:13,360
+fill out more of the risk log in the
+
+109
+00:04:09,200 --> 00:04:13,360
+exercise files
+

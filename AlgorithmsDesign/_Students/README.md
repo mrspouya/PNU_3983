@@ -11,6 +11,11 @@
  ---
 ### اسامی دانشجویان  کارشناسی
   
+
+ + [1-علیرضا آذرخش](https://azarakhsh2552.github.io/ )  
+   - [@azarakhsh2552](https://github.com/azarakhsh2552)
+  
+  
   
 + [عطیه جمشیدی]( https://atiejamshidi.github.io/atiejamshidii.github.io/)  
   - [@atiejamshidi](https://github.com/atiejamshidi)
@@ -61,8 +66,7 @@
 
 
 
-+ [علیرضا آذرخش](https://azarakhsh2552.github.io/ )  
-  - [@azarakhsh2552](https://github.com/azarakhsh2552)
+
  
  
  

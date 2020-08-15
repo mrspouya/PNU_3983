@@ -1,0 +1,268 @@
+1
+00:00:00,640 --> 00:00:05,920
+your project tasks are in sequence
+
+2
+00:00:03,360 --> 00:00:08,000
+and you've estimated their durations the
+
+3
+00:00:05,920 --> 00:00:10,480
+final piece of your scheduling puzzle
+
+4
+00:00:08,000 --> 00:00:11,920
+is how many people work on each task and
+
+5
+00:00:10,480 --> 00:00:14,320
+when they're available
+
+6
+00:00:11,920 --> 00:00:15,440
+with that info you can see how long
+
+7
+00:00:14,320 --> 00:00:18,480
+tasks take
+
+8
+00:00:15,440 --> 00:00:21,840
+and when they should occur you assign
+
+9
+00:00:18,480 --> 00:00:24,960
+resources only to work packages
+
+10
+00:00:21,840 --> 00:00:26,000
+the lowest levels in your wbs because
+
+11
+00:00:24,960 --> 00:00:29,439
+they represent
+
+12
+00:00:26,000 --> 00:00:32,000
+work that must be done summary tasks
+
+13
+00:00:29,439 --> 00:00:35,360
+roll up work from lower levels so you
+
+14
+00:00:32,000 --> 00:00:37,840
+don't assign resources to these tasks
+
+15
+00:00:35,360 --> 00:00:39,840
+milestones don't have duration so it
+
+16
+00:00:37,840 --> 00:00:41,600
+doesn't make sense to assign resources
+
+17
+00:00:39,840 --> 00:00:43,680
+to them either
+
+18
+00:00:41,600 --> 00:00:45,120
+what happens when you assign resources
+
+19
+00:00:43,680 --> 00:00:47,520
+to work packages
+
+20
+00:00:45,120 --> 00:00:48,480
+depends on whether you estimate task
+
+21
+00:00:47,520 --> 00:00:51,920
+duration
+
+22
+00:00:48,480 --> 00:00:54,079
+or work let's say you estimate duration
+
+23
+00:00:51,920 --> 00:00:56,719
+and assign the number of resources
+
+24
+00:00:54,079 --> 00:00:58,160
+you expect to get your scheduling tool
+
+25
+00:00:56,719 --> 00:01:00,640
+will calculate the work
+
+26
+00:00:58,160 --> 00:01:01,840
+those resources can perform in that
+
+27
+00:01:00,640 --> 00:01:04,080
+duration
+
+28
+00:01:01,840 --> 00:01:04,879
+let's say you're expecting two vendor
+
+29
+00:01:04,080 --> 00:01:08,400
+resources
+
+30
+00:01:04,879 --> 00:01:11,920
+full time to design scheduling features
+
+31
+00:01:08,400 --> 00:01:13,040
+the task duration estimate is two weeks
+
+32
+00:01:11,920 --> 00:01:16,799
+two people
+
+33
+00:01:13,040 --> 00:01:18,080
+working full time for two weeks is 160
+
+34
+00:01:16,799 --> 00:01:20,720
+hours
+
+35
+00:01:18,080 --> 00:01:22,159
+on the other hand if you estimate work
+
+36
+00:01:20,720 --> 00:01:24,880
+your scheduling tool
+
+37
+00:01:22,159 --> 00:01:25,680
+uses the work estimate and the resource
+
+38
+00:01:24,880 --> 00:01:29,280
+allocation
+
+39
+00:01:25,680 --> 00:01:32,400
+to calculate the task duration
+
+40
+00:01:29,280 --> 00:01:35,439
+some tasks don't get shorter no matter
+
+41
+00:01:32,400 --> 00:01:38,400
+how many people you assign meetings
+
+42
+00:01:35,439 --> 00:01:39,280
+are the classic example a four-hour
+
+43
+00:01:38,400 --> 00:01:41,759
+meeting is
+
+44
+00:01:39,280 --> 00:01:42,720
+four hours long whether three people
+
+45
+00:01:41,759 --> 00:01:46,079
+attend or
+
+46
+00:01:42,720 --> 00:01:46,799
+ten when resources are available also
+
+47
+00:01:46,079 --> 00:01:50,000
+affects
+
+48
+00:01:46,799 --> 00:01:50,640
+when work occurs for example your
+
+49
+00:01:50,000 --> 00:01:52,720
+schedule
+
+50
+00:01:50,640 --> 00:01:54,799
+might show the equipment installation
+
+51
+00:01:52,720 --> 00:01:57,200
+starting on november 9th
+
+52
+00:01:54,799 --> 00:01:58,159
+if your it folks are wrapping up another
+
+53
+00:01:57,200 --> 00:02:00,320
+installation
+
+54
+00:01:58,159 --> 00:02:01,680
+and the team won't be available until
+
+55
+00:02:00,320 --> 00:02:04,880
+november 18th
+
+56
+00:02:01,680 --> 00:02:05,759
+guess what you have to delay that task
+
+57
+00:02:04,880 --> 00:02:09,039
+in your schedule
+
+58
+00:02:05,759 --> 00:02:11,039
+to when the resources are available
+
+59
+00:02:09,039 --> 00:02:12,560
+don't forget to assign other types of
+
+60
+00:02:11,039 --> 00:02:15,520
+resources you need
+
+61
+00:02:12,560 --> 00:02:17,040
+like materials equipment and ancillary
+
+62
+00:02:15,520 --> 00:02:19,840
+costs
+
+63
+00:02:17,040 --> 00:02:21,280
+with all resources assigned you finally
+
+64
+00:02:19,840 --> 00:02:24,640
+get a good idea
+
+65
+00:02:21,280 --> 00:02:27,520
+what the schedule looks like to practice
+
+66
+00:02:24,640 --> 00:02:31,840
+work through the assignment exercise in
+
+67
+00:02:27,520 --> 00:02:31,840
+the exercise files
+

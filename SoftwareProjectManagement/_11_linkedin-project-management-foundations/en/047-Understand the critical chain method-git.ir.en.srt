@@ -1,0 +1,212 @@
+1
+00:00:00,560 --> 00:00:04,880
+critical chain is a slightly different
+
+2
+00:00:02,960 --> 00:00:06,640
+take on the critical path
+
+3
+00:00:04,880 --> 00:00:08,400
+it can help you deliver your project
+
+4
+00:00:06,640 --> 00:00:10,719
+earlier than you would otherwise
+
+5
+00:00:08,400 --> 00:00:12,000
+and helps prevent delays in the project
+
+6
+00:00:10,719 --> 00:00:14,080
+finish date
+
+7
+00:00:12,000 --> 00:00:15,599
+the critical chain approach schedules
+
+8
+00:00:14,080 --> 00:00:18,720
+tasks to occur
+
+9
+00:00:15,599 --> 00:00:19,119
+as late as possible one benefit of doing
+
+10
+00:00:18,720 --> 00:00:20,960
+this
+
+11
+00:00:19,119 --> 00:00:24,560
+is that you don't spend money on the
+
+12
+00:00:20,960 --> 00:00:26,960
+project until you absolutely have to
+
+13
+00:00:24,560 --> 00:00:29,119
+if you have to adjust the schedule you
+
+14
+00:00:26,960 --> 00:00:32,640
+move tasks to occur
+
+15
+00:00:29,119 --> 00:00:35,360
+earlier criticalchain also focuses on
+
+16
+00:00:32,640 --> 00:00:37,440
+resource limitations to identify the
+
+17
+00:00:35,360 --> 00:00:39,840
+important tasks to manage
+
+18
+00:00:37,440 --> 00:00:42,719
+that's because resource constraints are
+
+19
+00:00:39,840 --> 00:00:45,120
+often the toughest ones to deal with
+
+20
+00:00:42,719 --> 00:00:45,760
+you start by scheduling tasks with the
+
+21
+00:00:45,120 --> 00:00:48,480
+most
+
+22
+00:00:45,760 --> 00:00:51,360
+limited resources so you use those
+
+23
+00:00:48,480 --> 00:00:53,440
+people as effectively as possible
+
+24
+00:00:51,360 --> 00:00:55,600
+it's like filling a bucket to the brim
+
+25
+00:00:53,440 --> 00:00:56,320
+by putting the biggest rocks in a bucket
+
+26
+00:00:55,600 --> 00:00:58,800
+first
+
+27
+00:00:56,320 --> 00:01:00,800
+followed by smaller rocks and finishing
+
+28
+00:00:58,800 --> 00:01:04,400
+up with sand
+
+29
+00:01:00,800 --> 00:01:07,280
+the critical chain approach uses buffers
+
+30
+00:01:04,400 --> 00:01:07,600
+to give a project breathing room that
+
+31
+00:01:07,280 --> 00:01:10,159
+way
+
+32
+00:01:07,600 --> 00:01:11,200
+delays aren't as likely to delay the
+
+33
+00:01:10,159 --> 00:01:13,680
+finish date
+
+34
+00:01:11,200 --> 00:01:14,240
+what do these buffers do they're like
+
+35
+00:01:13,680 --> 00:01:17,119
+adding
+
+36
+00:01:14,240 --> 00:01:19,520
+shared time to the project each task
+
+37
+00:01:17,119 --> 00:01:22,640
+doesn't get its own time buffer
+
+38
+00:01:19,520 --> 00:01:25,920
+instead sequences of tasks
+
+39
+00:01:22,640 --> 00:01:28,080
+share a buffer that way only the tasks
+
+40
+00:01:25,920 --> 00:01:30,799
+that actually need extra time
+
+41
+00:01:28,080 --> 00:01:33,200
+use some of the buffer you apply a
+
+42
+00:01:30,799 --> 00:01:36,240
+couple of different types of buffers
+
+43
+00:01:33,200 --> 00:01:39,759
+first you tack buffers onto the end
+
+44
+00:01:36,240 --> 00:01:42,159
+of each sequence of tasks then you add a
+
+45
+00:01:39,759 --> 00:01:44,880
+project buffer at the end of the project
+
+46
+00:01:42,159 --> 00:01:46,000
+to protect the overall project finish
+
+47
+00:01:44,880 --> 00:01:47,759
+date
+
+48
+00:01:46,000 --> 00:01:49,680
+the critical chain approach helps
+
+49
+00:01:47,759 --> 00:01:52,960
+deliver projects on time
+
+50
+00:01:49,680 --> 00:01:55,280
+or earlier than planned for practice
+
+51
+00:01:52,960 --> 00:01:56,159
+go ahead and add buffers to the portion
+
+52
+00:01:55,280 --> 00:02:01,200
+of the project
+
+53
+00:01:56,159 --> 00:02:01,200
+provided in the exercise files
+

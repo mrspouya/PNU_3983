@@ -1,0 +1,436 @@
+1
+00:00:00,640 --> 00:00:04,319
+the government tax code started out so
+
+2
+00:00:03,280 --> 00:00:07,440
+simple
+
+3
+00:00:04,319 --> 00:00:09,440
+but a deduction here a new rule there
+
+4
+00:00:07,440 --> 00:00:11,519
+and now we have the complicated tax
+
+5
+00:00:09,440 --> 00:00:14,559
+returns of today
+
+6
+00:00:11,519 --> 00:00:17,680
+you know changes are going to happen so
+
+7
+00:00:14,559 --> 00:00:20,480
+the only solution is to manage them
+
+8
+00:00:17,680 --> 00:00:21,680
+a change management plan helps you add
+
+9
+00:00:20,480 --> 00:00:24,400
+important changes
+
+10
+00:00:21,680 --> 00:00:27,119
+into your project while keeping out the
+
+11
+00:00:24,400 --> 00:00:29,279
+ones that don't make sense
+
+12
+00:00:27,119 --> 00:00:30,880
+first you identify what you want to
+
+13
+00:00:29,279 --> 00:00:33,680
+control
+
+14
+00:00:30,880 --> 00:00:34,880
+like the project's scope requirements
+
+15
+00:00:33,680 --> 00:00:38,000
+and the schedule
+
+16
+00:00:34,880 --> 00:00:39,440
+or perhaps the entire project plan the
+
+17
+00:00:38,000 --> 00:00:42,480
+versions you control
+
+18
+00:00:39,440 --> 00:00:44,559
+are called baseline documents
+
+19
+00:00:42,480 --> 00:00:46,320
+the list of project requirements
+
+20
+00:00:44,559 --> 00:00:49,440
+approved by the stakeholders
+
+21
+00:00:46,320 --> 00:00:50,399
+is your baseline if new requirements are
+
+22
+00:00:49,440 --> 00:00:53,199
+suggested
+
+23
+00:00:50,399 --> 00:00:54,000
+you use your change management process
+
+24
+00:00:53,199 --> 00:00:55,840
+to decide
+
+25
+00:00:54,000 --> 00:00:57,520
+whether or not to add them to the
+
+26
+00:00:55,840 --> 00:00:59,520
+requirements list
+
+27
+00:00:57,520 --> 00:01:01,680
+you also need a group that reviews
+
+28
+00:00:59,520 --> 00:01:03,039
+change requests and decides whether to
+
+29
+00:01:01,680 --> 00:01:05,600
+approve them
+
+30
+00:01:03,039 --> 00:01:07,200
+it's called the change review board and
+
+31
+00:01:05,600 --> 00:01:10,400
+it's usually made up of
+
+32
+00:01:07,200 --> 00:01:13,600
+key stakeholders then you define
+
+33
+00:01:10,400 --> 00:01:16,240
+a change management process that's
+
+34
+00:01:13,600 --> 00:01:17,759
+what will happen when someone requests a
+
+35
+00:01:16,240 --> 00:01:20,320
+change
+
+36
+00:01:17,759 --> 00:01:22,000
+the process your organization chooses
+
+37
+00:01:20,320 --> 00:01:22,560
+depends on things like the company
+
+38
+00:01:22,000 --> 00:01:25,840
+culture
+
+39
+00:01:22,560 --> 00:01:26,640
+and project size here are the typical
+
+40
+00:01:25,840 --> 00:01:30,079
+components
+
+41
+00:01:26,640 --> 00:01:30,720
+of change management processes the first
+
+42
+00:01:30,079 --> 00:01:33,280
+process
+
+43
+00:01:30,720 --> 00:01:34,799
+is documenting and submitting a change
+
+44
+00:01:33,280 --> 00:01:37,200
+request
+
+45
+00:01:34,799 --> 00:01:39,439
+use a standardized change request form
+
+46
+00:01:37,200 --> 00:01:42,240
+that requesters fill out
+
+47
+00:01:39,439 --> 00:01:43,600
+it's easier to evaluate changes because
+
+48
+00:01:42,240 --> 00:01:46,079
+each request has the
+
+49
+00:01:43,600 --> 00:01:48,159
+information the review board needs to
+
+50
+00:01:46,079 --> 00:01:50,560
+make decisions
+
+51
+00:01:48,159 --> 00:01:51,759
+include details about the requested
+
+52
+00:01:50,560 --> 00:01:54,000
+change
+
+53
+00:01:51,759 --> 00:01:55,119
+the reason it's needed the business
+
+54
+00:01:54,000 --> 00:01:58,399
+justification
+
+55
+00:01:55,119 --> 00:02:01,280
+and the results it should produce
+
+56
+00:01:58,399 --> 00:02:03,280
+next someone has to evaluate the request
+
+57
+00:02:01,280 --> 00:02:05,600
+and estimate its impact
+
+58
+00:02:03,280 --> 00:02:06,320
+as project manager you can assign this
+
+59
+00:02:05,600 --> 00:02:08,800
+task to
+
+60
+00:02:06,320 --> 00:02:09,520
+someone on your team the evaluator
+
+61
+00:02:08,800 --> 00:02:12,480
+determines
+
+62
+00:02:09,520 --> 00:02:14,239
+whether the change is needed if it is
+
+63
+00:02:12,480 --> 00:02:16,560
+the person evaluates whether the
+
+64
+00:02:14,239 --> 00:02:19,599
+suggested approach is correct
+
+65
+00:02:16,560 --> 00:02:21,920
+or if an alternative would be better
+
+66
+00:02:19,599 --> 00:02:24,080
+the evaluator estimates the effort and
+
+67
+00:02:21,920 --> 00:02:26,560
+costs the change would require
+
+68
+00:02:24,080 --> 00:02:27,360
+the impact on the project and whether it
+
+69
+00:02:26,560 --> 00:02:31,599
+introduces
+
+70
+00:02:27,360 --> 00:02:34,720
+risks third the change review board
+
+71
+00:02:31,599 --> 00:02:37,040
+reviews evaluated change requests the
+
+72
+00:02:34,720 --> 00:02:38,000
+board might accept or reject the change
+
+73
+00:02:37,040 --> 00:02:40,560
+request
+
+74
+00:02:38,000 --> 00:02:42,160
+they also might ask for more detail or
+
+75
+00:02:40,560 --> 00:02:44,640
+revisions
+
+76
+00:02:42,160 --> 00:02:48,080
+be sure to communicate the decision to
+
+77
+00:02:44,640 --> 00:02:50,319
+the person who requested the change
+
+78
+00:02:48,080 --> 00:02:52,800
+for approved requests you update the
+
+79
+00:02:50,319 --> 00:02:55,200
+baseline documents to reflect the change
+
+80
+00:02:52,800 --> 00:02:56,319
+for example your project schedule might
+
+81
+00:02:55,200 --> 00:02:59,519
+need new tasks
+
+82
+00:02:56,319 --> 00:03:02,840
+or deadlines extended finally
+
+83
+00:02:59,519 --> 00:03:05,440
+track where change requests are in your
+
+84
+00:03:02,840 --> 00:03:07,760
+process a change request log
+
+85
+00:03:05,440 --> 00:03:08,800
+shows the status of submitted change
+
+86
+00:03:07,760 --> 00:03:11,120
+requests
+
+87
+00:03:08,800 --> 00:03:12,879
+who's in charge of the request the
+
+88
+00:03:11,120 --> 00:03:16,840
+impact estimate
+
+89
+00:03:12,879 --> 00:03:19,200
+current status and at the end actual
+
+90
+00:03:16,840 --> 00:03:22,560
+impact consider setting
+
+91
+00:03:19,200 --> 00:03:25,200
+thresholds so team leads can decide what
+
+92
+00:03:22,560 --> 00:03:27,920
+to do with smaller requests
+
+93
+00:03:25,200 --> 00:03:30,000
+that way your change management process
+
+94
+00:03:27,920 --> 00:03:33,120
+isn't overwhelmed with small
+
+95
+00:03:30,000 --> 00:03:35,680
+items also create a process for
+
+96
+00:03:33,120 --> 00:03:36,319
+emergency changes that need a rapid
+
+97
+00:03:35,680 --> 00:03:38,480
+decision
+
+98
+00:03:36,319 --> 00:03:40,000
+between meetings of the change review
+
+99
+00:03:38,480 --> 00:03:42,400
+board
+
+100
+00:03:40,000 --> 00:03:44,640
+a change management plan helps you
+
+101
+00:03:42,400 --> 00:03:45,599
+include changes that make sense in your
+
+102
+00:03:44,640 --> 00:03:47,599
+project
+
+103
+00:03:45,599 --> 00:03:48,640
+while protecting your project from being
+
+104
+00:03:47,599 --> 00:03:51,680
+overwhelmed with
+
+105
+00:03:48,640 --> 00:03:54,480
+unnecessary changes to solidify
+
+106
+00:03:51,680 --> 00:03:56,319
+your understanding of change management
+
+107
+00:03:54,480 --> 00:03:58,480
+draw a flowchart of the change
+
+108
+00:03:56,319 --> 00:04:01,840
+management processes the hospital
+
+109
+00:03:58,480 --> 00:04:01,840
+might use
+

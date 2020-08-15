@@ -1,0 +1,380 @@
+1
+00:00:00,799 --> 00:00:07,200
+project success actually means
+
+2
+00:00:03,520 --> 00:00:09,840
+meeting objectives not exceeding them
+
+3
+00:00:07,200 --> 00:00:11,360
+quality management includes processes to
+
+4
+00:00:09,840 --> 00:00:13,360
+make sure that a project
+
+5
+00:00:11,360 --> 00:00:14,719
+satisfies its objectives and
+
+6
+00:00:13,360 --> 00:00:17,279
+requirements
+
+7
+00:00:14,719 --> 00:00:18,000
+a quality management plan is your
+
+8
+00:00:17,279 --> 00:00:21,439
+roadmap
+
+9
+00:00:18,000 --> 00:00:23,519
+to meeting objectives project quality
+
+10
+00:00:21,439 --> 00:00:24,480
+translates into meeting the customers
+
+11
+00:00:23,519 --> 00:00:28,080
+requirements
+
+12
+00:00:24,480 --> 00:00:30,800
+and delivering on time and within budget
+
+13
+00:00:28,080 --> 00:00:34,640
+with deliverables and products quality
+
+14
+00:00:30,800 --> 00:00:37,360
+also means conforming to specifications
+
+15
+00:00:34,640 --> 00:00:38,960
+a quality management plan has three
+
+16
+00:00:37,360 --> 00:00:41,600
+components
+
+17
+00:00:38,960 --> 00:00:43,200
+first there's the quality standards for
+
+18
+00:00:41,600 --> 00:00:45,920
+deliverables
+
+19
+00:00:43,200 --> 00:00:47,680
+for a product the quality standard might
+
+20
+00:00:45,920 --> 00:00:50,079
+include the acceptable
+
+21
+00:00:47,680 --> 00:00:51,360
+tolerance for its dimensions or the
+
+22
+00:00:50,079 --> 00:00:54,079
+acceptable number of
+
+23
+00:00:51,360 --> 00:00:56,000
+defective widgets in a batch for the
+
+24
+00:00:54,079 --> 00:00:58,079
+hospital scheduling project
+
+25
+00:00:56,000 --> 00:00:59,359
+one quality standard might be that the
+
+26
+00:00:58,079 --> 00:01:01,680
+scheduling system
+
+27
+00:00:59,359 --> 00:01:03,280
+meets all the required scheduling
+
+28
+00:01:01,680 --> 00:01:06,080
+functions
+
+29
+00:01:03,280 --> 00:01:08,400
+keep in mind that the goal is to meet
+
+30
+00:01:06,080 --> 00:01:10,960
+the quality standards
+
+31
+00:01:08,400 --> 00:01:12,400
+obviously you don't want quality that's
+
+32
+00:01:10,960 --> 00:01:15,520
+below standard
+
+33
+00:01:12,400 --> 00:01:18,000
+the customer won't be happy they might
+
+34
+00:01:15,520 --> 00:01:21,439
+ask for additional work to get it right
+
+35
+00:01:18,000 --> 00:01:24,080
+or simply refuse to pay
+
+36
+00:01:21,439 --> 00:01:25,119
+this might surprise you you don't want
+
+37
+00:01:24,080 --> 00:01:28,560
+quality that's
+
+38
+00:01:25,119 --> 00:01:30,560
+higher than required why because other
+
+39
+00:01:28,560 --> 00:01:34,159
+aspects of the project can suffer
+
+40
+00:01:30,560 --> 00:01:35,680
+like a later finish date or higher cost
+
+41
+00:01:34,159 --> 00:01:37,200
+the second part of the quality
+
+42
+00:01:35,680 --> 00:01:40,320
+management plan is a
+
+43
+00:01:37,200 --> 00:01:41,920
+quality assurance plan this spells out
+
+44
+00:01:40,320 --> 00:01:44,320
+the processes you use
+
+45
+00:01:41,920 --> 00:01:45,439
+during the project to ensure that the
+
+46
+00:01:44,320 --> 00:01:47,680
+final results
+
+47
+00:01:45,439 --> 00:01:49,200
+meet the quality standards for the
+
+48
+00:01:47,680 --> 00:01:51,920
+scheduling system
+
+49
+00:01:49,200 --> 00:01:53,600
+reviewing requirements and designs falls
+
+50
+00:01:51,920 --> 00:01:56,240
+into this category
+
+51
+00:01:53,600 --> 00:01:58,079
+you might also test software functions
+
+52
+00:01:56,240 --> 00:02:01,680
+as they're developed
+
+53
+00:01:58,079 --> 00:02:04,560
+finally you plan for quality control
+
+54
+00:02:01,680 --> 00:02:07,520
+which means how you measure and monitor
+
+55
+00:02:04,560 --> 00:02:10,160
+quality in the final deliverables
+
+56
+00:02:07,520 --> 00:02:12,080
+the bottom line is that you examine or
+
+57
+00:02:10,160 --> 00:02:14,800
+measure results to see if they
+
+58
+00:02:12,080 --> 00:02:15,599
+meet the standard set for the scheduling
+
+59
+00:02:14,800 --> 00:02:18,080
+project
+
+60
+00:02:15,599 --> 00:02:19,760
+the final acceptance test would measure
+
+61
+00:02:18,080 --> 00:02:22,879
+whether the processes and
+
+62
+00:02:19,760 --> 00:02:24,640
+system achieve their objectives for the
+
+63
+00:02:22,879 --> 00:02:27,040
+hospital's new cancer wing
+
+64
+00:02:24,640 --> 00:02:29,200
+you would do a walk through to confirm
+
+65
+00:02:27,040 --> 00:02:30,879
+that the construction has been completed
+
+66
+00:02:29,200 --> 00:02:34,480
+correctly
+
+67
+00:02:30,879 --> 00:02:37,760
+continuous improvement is a big part of
+
+68
+00:02:34,480 --> 00:02:38,560
+quality management if you find quality
+
+69
+00:02:37,760 --> 00:02:40,879
+issues
+
+70
+00:02:38,560 --> 00:02:41,840
+you analyze the problems to see how to
+
+71
+00:02:40,879 --> 00:02:45,200
+prevent them
+
+72
+00:02:41,840 --> 00:02:46,720
+or at least reduce their frequency cause
+
+73
+00:02:45,200 --> 00:02:49,440
+and effect diagrams
+
+74
+00:02:46,720 --> 00:02:50,080
+are also called fishbone diagrams
+
+75
+00:02:49,440 --> 00:02:52,879
+because they
+
+76
+00:02:50,080 --> 00:02:54,879
+look like a fish skeleton they help
+
+77
+00:02:52,879 --> 00:02:55,920
+identify factors that could lead to
+
+78
+00:02:54,879 --> 00:02:58,080
+problems
+
+79
+00:02:55,920 --> 00:03:00,800
+those factors can help you figure out
+
+80
+00:02:58,080 --> 00:03:03,920
+ways to prevent the problems
+
+81
+00:03:00,800 --> 00:03:04,560
+another tool is a pareto diagram this
+
+82
+00:03:03,920 --> 00:03:07,200
+shows
+
+83
+00:03:04,560 --> 00:03:08,319
+how many defects are generated by each
+
+84
+00:03:07,200 --> 00:03:10,720
+cause
+
+85
+00:03:08,319 --> 00:03:12,560
+that way you can address the causes that
+
+86
+00:03:10,720 --> 00:03:15,840
+produce the most defects
+
+87
+00:03:12,560 --> 00:03:16,640
+first by developing a quality management
+
+88
+00:03:15,840 --> 00:03:18,800
+plan
+
+89
+00:03:16,640 --> 00:03:20,640
+you can ensure that your project meets
+
+90
+00:03:18,800 --> 00:03:23,519
+its quality objectives
+
+91
+00:03:20,640 --> 00:03:24,959
+for practice identify potential quality
+
+92
+00:03:23,519 --> 00:03:27,840
+assurance processes
+
+93
+00:03:24,959 --> 00:03:29,239
+and quality control measures for each of
+
+94
+00:03:27,840 --> 00:03:32,239
+the project
+
+95
+00:03:29,239 --> 00:03:32,239
+objectives
+

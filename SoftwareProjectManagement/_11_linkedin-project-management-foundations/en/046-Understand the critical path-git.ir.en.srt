@@ -1,0 +1,304 @@
+1
+00:00:00,799 --> 00:00:04,080
+the critical path is the longest
+
+2
+00:00:02,879 --> 00:00:06,879
+sequence of tasks
+
+3
+00:00:04,080 --> 00:00:07,359
+in your schedule why is the critical
+
+4
+00:00:06,879 --> 00:00:11,200
+path
+
+5
+00:00:07,359 --> 00:00:11,679
+so critical because any delay on that
+
+6
+00:00:11,200 --> 00:00:15,040
+path
+
+7
+00:00:11,679 --> 00:00:17,039
+delays the finish date of the project
+
+8
+00:00:15,040 --> 00:00:18,880
+just as important if you can figure out
+
+9
+00:00:17,039 --> 00:00:22,000
+how to shorten the critical path
+
+10
+00:00:18,880 --> 00:00:22,880
+you can shorten the project schedule how
+
+11
+00:00:22,000 --> 00:00:25,279
+do you tell
+
+12
+00:00:22,880 --> 00:00:26,000
+which tasks are on the critical path
+
+13
+00:00:25,279 --> 00:00:29,119
+simple
+
+14
+00:00:26,000 --> 00:00:32,399
+they don't have any slack also known as
+
+15
+00:00:29,119 --> 00:00:34,880
+float just like a string with no slack
+
+16
+00:00:32,399 --> 00:00:37,760
+critical tasks can't move without
+
+17
+00:00:34,880 --> 00:00:40,239
+affecting the project finish date
+
+18
+00:00:37,760 --> 00:00:41,280
+in this simple example the system and
+
+19
+00:00:40,239 --> 00:00:45,280
+training tasks
+
+20
+00:00:41,280 --> 00:00:47,280
+occur one after the other with no slack
+
+21
+00:00:45,280 --> 00:00:50,559
+if any of these tasks are delayed the
+
+22
+00:00:47,280 --> 00:00:54,000
+project finish date moves later in time
+
+23
+00:00:50,559 --> 00:00:57,120
+on the other hand if a task has slack
+
+24
+00:00:54,000 --> 00:00:58,000
+like the reports task here it can start
+
+25
+00:00:57,120 --> 00:01:01,199
+later without
+
+26
+00:00:58,000 --> 00:01:03,600
+delaying the tasks that come after it
+
+27
+00:01:01,199 --> 00:01:05,760
+the reports task could delay by a few
+
+28
+00:01:03,600 --> 00:01:07,840
+weeks before it delays the project
+
+29
+00:01:05,760 --> 00:01:10,080
+finish
+
+30
+00:01:07,840 --> 00:01:13,040
+let's look at how you tell whether or
+
+31
+00:01:10,080 --> 00:01:15,759
+not a task has slack
+
+32
+00:01:13,040 --> 00:01:17,119
+a task has two sets of start and finish
+
+33
+00:01:15,759 --> 00:01:19,680
+dates
+
+34
+00:01:17,119 --> 00:01:22,080
+the early start and early finish are the
+
+35
+00:01:19,680 --> 00:01:23,520
+earliest possible dates the tasks can
+
+36
+00:01:22,080 --> 00:01:25,439
+start or finish
+
+37
+00:01:23,520 --> 00:01:27,200
+based on its dependencies with other
+
+38
+00:01:25,439 --> 00:01:30,320
+tasks
+
+39
+00:01:27,200 --> 00:01:33,759
+you calculate these with what's called
+
+40
+00:01:30,320 --> 00:01:35,360
+a forward pass that's where you start at
+
+41
+00:01:33,759 --> 00:01:37,840
+the project start date
+
+42
+00:01:35,360 --> 00:01:38,880
+and use task durations and dependencies
+
+43
+00:01:37,840 --> 00:01:42,159
+to calculate
+
+44
+00:01:38,880 --> 00:01:44,799
+when they finish for example
+
+45
+00:01:42,159 --> 00:01:46,720
+the reports task can start as early as
+
+46
+00:01:44,799 --> 00:01:49,840
+october 26th
+
+47
+00:01:46,720 --> 00:01:52,079
+and finish on november 27th
+
+48
+00:01:49,840 --> 00:01:53,600
+the late start and late finish are the
+
+49
+00:01:52,079 --> 00:01:56,799
+latest possible dates
+
+50
+00:01:53,600 --> 00:01:58,799
+without delaying tasks that follow
+
+51
+00:01:56,799 --> 00:02:01,840
+you calculate these dates by working
+
+52
+00:01:58,799 --> 00:02:05,280
+backwards from the end of the project
+
+53
+00:02:01,840 --> 00:02:07,680
+you got it the backward pass
+
+54
+00:02:05,280 --> 00:02:09,360
+the late finish for the reports task is
+
+55
+00:02:07,680 --> 00:02:12,080
+december 18th
+
+56
+00:02:09,360 --> 00:02:14,640
+so working backwards the late start is
+
+57
+00:02:12,080 --> 00:02:17,280
+november 16th
+
+58
+00:02:14,640 --> 00:02:18,239
+the task has several weeks of slack so
+
+59
+00:02:17,280 --> 00:02:21,440
+it isn't
+
+60
+00:02:18,239 --> 00:02:24,480
+on the critical path critical tasks have
+
+61
+00:02:21,440 --> 00:02:26,560
+no slack in other words the early and
+
+62
+00:02:24,480 --> 00:02:28,720
+late dates are the same
+
+63
+00:02:26,560 --> 00:02:30,480
+that's why the training task is on the
+
+64
+00:02:28,720 --> 00:02:33,280
+critical path
+
+65
+00:02:30,480 --> 00:02:35,200
+the good news you don't have to perform
+
+66
+00:02:33,280 --> 00:02:37,680
+these calculations
+
+67
+00:02:35,200 --> 00:02:39,760
+when you use project scheduling programs
+
+68
+00:02:37,680 --> 00:02:43,040
+they calculate the critical path
+
+69
+00:02:39,760 --> 00:02:45,200
+for you the critical path
+
+70
+00:02:43,040 --> 00:02:46,160
+is the place to look when you want to
+
+71
+00:02:45,200 --> 00:02:49,519
+keep your project
+
+72
+00:02:46,160 --> 00:02:52,560
+on time or deliver it early
+
+73
+00:02:49,519 --> 00:02:55,440
+to test your understanding calculate the
+
+74
+00:02:52,560 --> 00:02:58,080
+late dates for the tasks in the exercise
+
+75
+00:02:55,440 --> 00:03:00,959
+and use them to identify the critical
+
+76
+00:02:58,080 --> 00:03:00,959
+path
+

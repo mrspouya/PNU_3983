@@ -1,0 +1,340 @@
+1
+00:00:00,699 --> 00:00:03,700
+What happens to the product backlog and Sprint planning
+
+2
+00:00:04,099 --> 00:00:07,199
+in Sprint planning at the beginning of the Sprint the product
+
+3
+00:00:07,299 --> 00:00:10,499
+owner discusses the stories at the top of the product backlog
+
+4
+00:00:10,599 --> 00:00:13,800
+with the developers the developers forecast
+
+5
+00:00:14,000 --> 00:00:16,899
+how many they are likely to get done during the Sprint
+
+6
+00:00:17,000 --> 00:00:20,099
+to be able to do the forecast the details
+
+7
+00:00:20,199 --> 00:00:22,200
+of the stories need to be understood well enough,
+
+8
+00:00:22,300 --> 00:00:25,299
+they should be the result of a negotiation between
+
+9
+00:00:25,399 --> 00:00:28,299
+the product owner and the developers and they should
+
+10
+00:00:28,399 --> 00:00:30,199
+be documented as acceptance criteria.
+
+11
+00:00:30,399 --> 00:00:30,899
+Here we are.
+
+12
+00:00:32,299 --> 00:00:33,000
+Also.
+
+13
+00:00:33,200 --> 00:00:36,100
+The story should be small so that the developers can
+
+14
+00:00:36,200 --> 00:00:38,899
+show the progress they made in Sprint review.
+
+15
+00:00:39,200 --> 00:00:42,100
+They should be around five to ten stories available for the
+
+16
+00:00:42,200 --> 00:00:45,100
+Sprint furthermore the team agrees on
+
+17
+00:00:45,200 --> 00:00:48,399
+an overarching goal for the Sprint the developers
+
+18
+00:00:48,500 --> 00:00:52,100
+to the design and agree on tasks to implement the stories.
+
+19
+00:00:53,899 --> 00:00:57,000
+Let's have a look at our top story from the example backlog
+
+20
+00:00:57,100 --> 00:01:00,000
+search single Airline when the product owner meets
+
+21
+00:01:00,100 --> 00:01:00,799
+the developers.
+
+22
+00:01:00,899 --> 00:01:02,500
+He has a lot of ideas.
+
+23
+00:01:03,100 --> 00:01:05,399
+The airline is fixed to United Airlines.
+
+24
+00:01:05,500 --> 00:01:08,399
+The frequent flyer can specify source and Target
+
+25
+00:01:08,500 --> 00:01:11,499
+airport day of departure and return how many adults
+
+26
+00:01:11,599 --> 00:01:14,699
+and children will fly and which class they will fly in the
+
+27
+00:01:14,799 --> 00:01:18,399
+product owner wants the source and Target airport is autocomplete
+
+28
+00:01:18,500 --> 00:01:21,399
+fields and the day of departure and return to be
+
+29
+00:01:21,500 --> 00:01:22,799
+picked from a calendar.
+
+30
+00:01:23,700 --> 00:01:27,000
+In the discussion with the developers it quickly turns out
+
+31
+00:01:27,099 --> 00:01:30,200
+that this story is too big for a two-week Sprint.
+
+32
+00:01:30,400 --> 00:01:32,400
+So the team starts to brainstorm.
+
+33
+00:01:32,700 --> 00:01:35,700
+What would be the simplest thing to do with the story?
+
+34
+00:01:38,099 --> 00:01:40,999
+Here's what the team agrees on the airline is
+
+35
+00:01:41,099 --> 00:01:43,999
+fixed to United Airlines same as before but
+
+36
+00:01:44,099 --> 00:01:47,300
+the source and Target airport are specified a simple text
+
+37
+00:01:47,400 --> 00:01:50,300
+Fields without autocomplete only the day of
+
+38
+00:01:50,400 --> 00:01:52,100
+departure can be specified.
+
+39
+00:01:52,200 --> 00:01:54,799
+So at first only single trips are possible.
+
+40
+00:01:55,299 --> 00:01:58,199
+The user needs to enter the date in a simple text field.
+
+41
+00:01:58,299 --> 00:02:01,300
+There's no calendar only one adult can fly
+
+42
+00:02:01,400 --> 00:02:04,099
+that is fixed in the class is fixed to coach.
+
+43
+00:02:06,000 --> 00:02:08,999
+On top of that the developers create a simple wire
+
+44
+00:02:09,099 --> 00:02:11,500
+frame to show what the page will look like.
+
+45
+00:02:12,199 --> 00:02:12,800
+Of course.
+
+46
+00:02:12,900 --> 00:02:15,800
+This story does not represent the final story that will
+
+47
+00:02:15,900 --> 00:02:17,800
+be delivered to end users.
+
+48
+00:02:18,000 --> 00:02:21,200
+It does not have to it's part of the iterative nature
+
+49
+00:02:21,300 --> 00:02:24,499
+of scrum to refine the work that has been done Sprint
+
+50
+00:02:24,599 --> 00:02:25,400
+by Sprint.
+
+51
+00:02:27,400 --> 00:02:30,499
+The team agrees on the Sprint goal to be able to book
+
+52
+00:02:30,599 --> 00:02:33,700
+a flight of a single airline to reach that goal
+
+53
+00:02:33,800 --> 00:02:36,999
+the team can stop discussing further details of the third
+
+54
+00:02:37,099 --> 00:02:38,200
+single Airline story.
+
+55
+00:02:38,300 --> 00:02:38,800
+Now,
+
+56
+00:02:39,099 --> 00:02:42,499
+this will be done in the future when the team has more knowledge
+
+57
+00:02:42,599 --> 00:02:46,099
+based on the implementation and feedback of the stakeholders
+
+58
+00:02:46,500 --> 00:02:49,800
+instead the team starts to discuss the other stories
+
+59
+00:02:49,900 --> 00:02:53,200
+needed to book a flight and defines acceptance criteria
+
+60
+00:02:53,300 --> 00:02:54,300
+for them as well.
+
+61
+00:02:55,400 --> 00:02:58,499
+But what about the original story the full version
+
+62
+00:02:58,599 --> 00:03:01,599
+of the search that will become clear when we look
+
+63
+00:03:01,699 --> 00:03:04,599
+at the story map that is updated by the team and
+
+64
+00:03:04,699 --> 00:03:05,699
+Sprint planning.
+
+65
+00:03:07,900 --> 00:03:10,800
+The product owner decides to put that story at
+
+66
+00:03:10,900 --> 00:03:12,699
+the very bottom of the map.
+
+67
+00:03:13,000 --> 00:03:16,700
+Maybe you think now why on Earth is dead remember
+
+68
+00:03:16,800 --> 00:03:19,999
+that the goal of the release was to ship a usable software
+
+69
+00:03:20,099 --> 00:03:23,399
+to test users to see if it's valuable the
+
+70
+00:03:23,500 --> 00:03:26,400
+product owner understands that to reach their goal.
+
+71
+00:03:26,500 --> 00:03:29,599
+The UI does not need to be polished or perfect.
+
+72
+00:03:29,800 --> 00:03:33,200
+So the story gets a lower priority its details
+
+73
+00:03:33,300 --> 00:03:36,599
+will be defined in a future Sprint when it will be implemented.
+
+74
+00:03:38,800 --> 00:03:42,400
+When the team has discussed the stories for the Sprint
+
+75
+00:03:42,500 --> 00:03:45,599
+the developers are confident that they are able to deliver
+
+76
+00:03:45,699 --> 00:03:46,599
+those stories.
+
+77
+00:03:46,900 --> 00:03:50,500
+So the pull the stories into the Sprint backlog.
+
+78
+00:03:50,900 --> 00:03:54,200
+They discuss the necessary development tasks to implement
+
+79
+00:03:54,300 --> 00:03:57,900
+the stories you can see them in the to do column.
+
+80
+00:03:58,400 --> 00:04:01,700
+The development tasks are different from the user tasks
+
+81
+00:04:01,800 --> 00:04:02,700
+in story mapping.
+
+82
+00:04:02,800 --> 00:04:05,899
+Our development has could be create controller
+
+83
+00:04:06,000 --> 00:04:07,599
+Class A create.
+
+84
+00:04:07,800 --> 00:04:10,500
+InDesign be or create see service.
+
+85
+00:04:11,300 --> 00:04:14,199
+And with that Sprint planning is complete.
+

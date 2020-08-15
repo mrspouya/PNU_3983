@@ -1,0 +1,296 @@
+1
+00:00:00,640 --> 00:00:03,120
+if you've ever heard abbot and
+
+2
+00:00:02,320 --> 00:00:05,920
+costello's
+
+3
+00:00:03,120 --> 00:00:07,839
+who's on first skit you know how hard it
+
+4
+00:00:05,920 --> 00:00:11,200
+can be to get your point across
+
+5
+00:00:07,839 --> 00:00:14,240
+the success of a project depends on good
+
+6
+00:00:11,200 --> 00:00:15,280
+communication that's why you set up a
+
+7
+00:00:14,240 --> 00:00:18,320
+communication
+
+8
+00:00:15,280 --> 00:00:21,439
+plan the right people getting the right
+
+9
+00:00:18,320 --> 00:00:24,800
+information at the right time and
+
+10
+00:00:21,439 --> 00:00:26,000
+in the right way you start with your
+
+11
+00:00:24,800 --> 00:00:28,560
+audiences
+
+12
+00:00:26,000 --> 00:00:30,080
+who needs to know about the project the
+
+13
+00:00:28,560 --> 00:00:32,320
+responsibility matrix
+
+14
+00:00:30,080 --> 00:00:34,000
+is a good place to look to find your
+
+15
+00:00:32,320 --> 00:00:37,200
+audiences
+
+16
+00:00:34,000 --> 00:00:40,800
+second what do your audiences need
+
+17
+00:00:37,200 --> 00:00:42,160
+or want to know management stakeholders
+
+18
+00:00:40,800 --> 00:00:45,280
+care about a project
+
+19
+00:00:42,160 --> 00:00:47,280
+achieving its objectives early on you
+
+20
+00:00:45,280 --> 00:00:47,760
+give them the project plans so they can
+
+21
+00:00:47,280 --> 00:00:50,559
+see
+
+22
+00:00:47,760 --> 00:00:52,079
+how you're going to deliver later on
+
+23
+00:00:50,559 --> 00:00:54,800
+they want to know about
+
+24
+00:00:52,079 --> 00:00:57,280
+progress how much you've spent and the
+
+25
+00:00:54,800 --> 00:01:00,160
+overall project results
+
+26
+00:00:57,280 --> 00:01:01,600
+the project sponsor is tightly connected
+
+27
+00:01:00,160 --> 00:01:03,600
+with the project
+
+28
+00:01:01,600 --> 00:01:05,680
+you'll probably communicate with the
+
+29
+00:01:03,600 --> 00:01:08,640
+sponsor more often
+
+30
+00:01:05,680 --> 00:01:09,840
+maybe in face-to-face meetings
+
+31
+00:01:08,640 --> 00:01:12,159
+functional managers
+
+32
+00:01:09,840 --> 00:01:13,040
+initially need to know the skill sets
+
+33
+00:01:12,159 --> 00:01:15,680
+you need
+
+34
+00:01:13,040 --> 00:01:16,080
+when you need them and other things like
+
+35
+00:01:15,680 --> 00:01:18,240
+cost
+
+36
+00:01:16,080 --> 00:01:19,119
+constraints once people are on
+
+37
+00:01:18,240 --> 00:01:21,600
+assignment
+
+38
+00:01:19,119 --> 00:01:24,000
+these managers want to know when their
+
+39
+00:01:21,600 --> 00:01:25,840
+people will be done
+
+40
+00:01:24,000 --> 00:01:27,600
+team members need to know what they're
+
+41
+00:01:25,840 --> 00:01:29,520
+supposed to do
+
+42
+00:01:27,600 --> 00:01:31,040
+they're more likely to buy into the
+
+43
+00:01:29,520 --> 00:01:34,240
+project if you tell them
+
+44
+00:01:31,040 --> 00:01:36,640
+how their work fits into the big picture
+
+45
+00:01:34,240 --> 00:01:39,040
+as time passes they also need to know
+
+46
+00:01:36,640 --> 00:01:41,520
+what's coming up next
+
+47
+00:01:39,040 --> 00:01:42,799
+the last part of a communication plan is
+
+48
+00:01:41,520 --> 00:01:46,000
+the how
+
+49
+00:01:42,799 --> 00:01:46,880
+how often the methods you use and the
+
+50
+00:01:46,000 --> 00:01:49,280
+format
+
+51
+00:01:46,880 --> 00:01:50,320
+face-to-face communication is good for
+
+52
+00:01:49,280 --> 00:01:52,560
+brainstorming
+
+53
+00:01:50,320 --> 00:01:54,399
+getting to know people and discussing
+
+54
+00:01:52,560 --> 00:01:57,200
+sensitive topics
+
+55
+00:01:54,399 --> 00:01:57,840
+if your team is dispersed geographically
+
+56
+00:01:57,200 --> 00:02:00,079
+email
+
+57
+00:01:57,840 --> 00:02:02,240
+conference calls and video conferencing
+
+58
+00:02:00,079 --> 00:02:04,880
+are indispensable
+
+59
+00:02:02,240 --> 00:02:05,600
+you know that stakeholder management is
+
+60
+00:02:04,880 --> 00:02:08,160
+all about
+
+61
+00:02:05,600 --> 00:02:09,759
+getting and keeping stakeholders support
+
+62
+00:02:08,160 --> 00:02:12,480
+for your project
+
+63
+00:02:09,759 --> 00:02:13,120
+the communication plan helps by spelling
+
+64
+00:02:12,480 --> 00:02:14,800
+out
+
+65
+00:02:13,120 --> 00:02:17,200
+how you're going to communicate with
+
+66
+00:02:14,800 --> 00:02:20,560
+stakeholders to keep them on board
+
+67
+00:02:17,200 --> 00:02:21,360
+and happy a communication plan helps
+
+68
+00:02:20,560 --> 00:02:24,000
+ensure that
+
+69
+00:02:21,360 --> 00:02:24,720
+people get the information they need in
+
+70
+00:02:24,000 --> 00:02:27,040
+the most
+
+71
+00:02:24,720 --> 00:02:28,080
+effective way to solidify your
+
+72
+00:02:27,040 --> 00:02:30,160
+understanding
+
+73
+00:02:28,080 --> 00:02:34,800
+set up a communication plan for the
+
+74
+00:02:30,160 --> 00:02:34,800
+hospital scheduling project
+

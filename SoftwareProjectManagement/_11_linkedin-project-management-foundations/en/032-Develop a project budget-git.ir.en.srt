@@ -1,0 +1,376 @@
+1
+00:00:00,640 --> 00:00:05,920
+with most projects money is important
+
+2
+00:00:03,439 --> 00:00:08,400
+whether you're trying to make it save it
+
+3
+00:00:05,920 --> 00:00:10,639
+or stay within a budgeted amount
+
+4
+00:00:08,400 --> 00:00:12,480
+project cost is one of the three key
+
+5
+00:00:10,639 --> 00:00:14,639
+constraints you need to manage
+
+6
+00:00:12,480 --> 00:00:17,039
+and the project budget is your starting
+
+7
+00:00:14,639 --> 00:00:19,119
+point the project budget should be a
+
+8
+00:00:17,039 --> 00:00:20,800
+realistic estimate of the cost to
+
+9
+00:00:19,119 --> 00:00:23,840
+complete the project work
+
+10
+00:00:20,800 --> 00:00:26,240
+if your estimate is unrealistically high
+
+11
+00:00:23,840 --> 00:00:27,840
+the project could be cancelled if the
+
+12
+00:00:26,240 --> 00:00:30,880
+estimate is too low
+
+13
+00:00:27,840 --> 00:00:31,359
+the project will cost more which usually
+
+14
+00:00:30,880 --> 00:00:33,680
+means
+
+15
+00:00:31,359 --> 00:00:35,280
+it won't deliver the financial benefit
+
+16
+00:00:33,680 --> 00:00:37,920
+it's supposed to
+
+17
+00:00:35,280 --> 00:00:39,920
+you estimate all the costs associated
+
+18
+00:00:37,920 --> 00:00:42,879
+with completing the project work
+
+19
+00:00:39,920 --> 00:00:43,520
+including labor materials and other
+
+20
+00:00:42,879 --> 00:00:46,160
+costs
+
+21
+00:00:43,520 --> 00:00:48,320
+like travel you can start with rough
+
+22
+00:00:46,160 --> 00:00:50,320
+estimates for the first few levels of
+
+23
+00:00:48,320 --> 00:00:53,120
+your work breakdown structure
+
+24
+00:00:50,320 --> 00:00:53,440
+then create more accurate estimates as
+
+25
+00:00:53,120 --> 00:00:57,360
+you
+
+26
+00:00:53,440 --> 00:00:57,680
+learn more about the project labor cost
+
+27
+00:00:57,360 --> 00:01:00,800
+is
+
+28
+00:00:57,680 --> 00:01:03,280
+usually a big part of a project's cost
+
+29
+00:01:00,800 --> 00:01:04,400
+that is what you pay people who work on
+
+30
+00:01:03,280 --> 00:01:07,520
+the project
+
+31
+00:01:04,400 --> 00:01:08,320
+if you hire vendors or contractors their
+
+32
+00:01:07,520 --> 00:01:11,439
+charges go
+
+33
+00:01:08,320 --> 00:01:12,320
+directly into project labor costs for
+
+34
+00:01:11,439 --> 00:01:15,520
+employees
+
+35
+00:01:12,320 --> 00:01:18,240
+you typically use the burdened cost
+
+36
+00:01:15,520 --> 00:01:19,360
+that includes salary and employee
+
+37
+00:01:18,240 --> 00:01:21,600
+benefits
+
+38
+00:01:19,360 --> 00:01:23,040
+you can get burdened rates for roles
+
+39
+00:01:21,600 --> 00:01:26,159
+from your accounting or
+
+40
+00:01:23,040 --> 00:01:29,119
+hr department projects might use
+
+41
+00:01:26,159 --> 00:01:29,600
+other types of time-based resources
+
+42
+00:01:29,119 --> 00:01:32,560
+think
+
+43
+00:01:29,600 --> 00:01:34,799
+equipment or office space that you rent
+
+44
+00:01:32,560 --> 00:01:38,640
+these costs go into your calculations
+
+45
+00:01:34,799 --> 00:01:40,880
+too then there's material cost
+
+46
+00:01:38,640 --> 00:01:41,920
+the hospital scheduling project could
+
+47
+00:01:40,880 --> 00:01:44,159
+include a new
+
+48
+00:01:41,920 --> 00:01:46,560
+server or training guides and
+
+49
+00:01:44,159 --> 00:01:49,439
+documentation notebooks
+
+50
+00:01:46,560 --> 00:01:50,399
+finally be sure to include other types
+
+51
+00:01:49,439 --> 00:01:52,840
+of costs
+
+52
+00:01:50,399 --> 00:01:54,000
+that don't fit in the previous three
+
+53
+00:01:52,840 --> 00:01:57,280
+categories
+
+54
+00:01:54,000 --> 00:02:00,399
+for example travel training expenses
+
+55
+00:01:57,280 --> 00:02:02,479
+and fees have you ever gotten
+
+56
+00:02:00,399 --> 00:02:05,360
+into a cash crunch when you didn't have
+
+57
+00:02:02,479 --> 00:02:07,920
+enough money on hand to pay expenses
+
+58
+00:02:05,360 --> 00:02:08,800
+projects can run into cash flow problems
+
+59
+00:02:07,920 --> 00:02:11,599
+too
+
+60
+00:02:08,800 --> 00:02:13,760
+which is why you figure out when project
+
+61
+00:02:11,599 --> 00:02:15,680
+expenses will occur
+
+62
+00:02:13,760 --> 00:02:17,840
+when you assign resources and other
+
+63
+00:02:15,680 --> 00:02:18,720
+costs to the tasks in your project
+
+64
+00:02:17,840 --> 00:02:21,360
+schedule
+
+65
+00:02:18,720 --> 00:02:23,120
+you'll get a rough idea what your cash
+
+66
+00:02:21,360 --> 00:02:25,520
+flow looks like
+
+67
+00:02:23,120 --> 00:02:26,720
+let's say management has money allocated
+
+68
+00:02:25,520 --> 00:02:29,360
+for the project
+
+69
+00:02:26,720 --> 00:02:31,840
+like the grants and donations earmarked
+
+70
+00:02:29,360 --> 00:02:34,000
+for the hospital scheduling project
+
+71
+00:02:31,840 --> 00:02:35,360
+if your cost estimate is higher than the
+
+72
+00:02:34,000 --> 00:02:37,599
+allocated amount
+
+73
+00:02:35,360 --> 00:02:38,959
+you have to look at ways to reduce the
+
+74
+00:02:37,599 --> 00:02:40,879
+project cost
+
+75
+00:02:38,959 --> 00:02:42,800
+you might eliminate non-essential
+
+76
+00:02:40,879 --> 00:02:47,120
+expenses or find
+
+77
+00:02:42,800 --> 00:02:49,280
+less expensive resources maybe cut scope
+
+78
+00:02:47,120 --> 00:02:50,160
+in the hospital scheduling project
+
+79
+00:02:49,280 --> 00:02:52,080
+management
+
+80
+00:02:50,160 --> 00:02:53,680
+allocated eight hundred and fifty
+
+81
+00:02:52,080 --> 00:02:56,640
+thousand dollars
+
+82
+00:02:53,680 --> 00:02:58,800
+the estimate including contingency is
+
+83
+00:02:56,640 --> 00:03:00,800
+nine hundred and fifty thousand
+
+84
+00:02:58,800 --> 00:03:02,560
+you might consider working with less
+
+85
+00:03:00,800 --> 00:03:05,680
+contingency funds
+
+86
+00:03:02,560 --> 00:03:08,800
+ask for more money or dive in to find
+
+87
+00:03:05,680 --> 00:03:11,680
+ways to cut the total cost
+
+88
+00:03:08,800 --> 00:03:12,800
+the project budget is the cost target
+
+89
+00:03:11,680 --> 00:03:16,000
+you aim for
+
+90
+00:03:12,800 --> 00:03:18,159
+as you manage a project for practice
+
+91
+00:03:16,000 --> 00:03:19,840
+think about what you can do about the
+
+92
+00:03:18,159 --> 00:03:22,239
+hundred thousand dollars
+
+93
+00:03:19,840 --> 00:03:27,599
+that exceeds the amount that management
+
+94
+00:03:22,239 --> 00:03:27,599
+has allocated for the scheduling project
+

@@ -17,9 +17,4 @@
   
   
   
-  
-  
-  
-+ [پوریا صفری]( https://pooriasafari.github.io)  
-  - [@pooriasafari]()
 

@@ -1,0 +1,306 @@
+1
+1
+00:00:00,510 --> 00:00:04,560
+
+Even with homemade chicken soup, you
+don't make everything from scratch.
+
+
+2
+
+2
+00:00:05,190 --> 00:00:10,350
+
+Imagine how long it would take and how much it
+would cost if you had to raise your own
+
+4
+
+
+3
+00:00:10,350 --> 00:00:14,200
+
+chickens, vegetable and wheat and
+make chicken stock and noodles.
+
+5
+
+
+4
+00:00:14,640 --> 00:00:16,800
+
+The same goes in the project world.
+
+6
+
+
+5
+00:00:17,190 --> 00:00:22,530
+
+Procuring products, services and skills can be a
+lot quicker than trying to do everything
+
+
+
+7
+6
+00:00:22,530 --> 00:00:28,110
+
+yourself. When you purchase items from outside
+your organization, you need to plan how
+
+
+8
+7
+00:00:28,110 --> 00:00:30,420
+
+you're going to do that. You guessed it.
+
+
+
+9
+8
+00:00:30,990 --> 00:00:33,450
+
+That's what a procurement plan is for.
+
+
+
+10
+9
+00:00:34,450 --> 00:00:37,250
+
+First, you identify what
+you need to purchase.
+
+11
+
+
+10
+00:00:37,660 --> 00:00:42,610
+
+Maybe you need people with specific skills or
+you need more people than your organization
+
+
+
+17
+11
+00:00:42,610 --> 00:00:46,280
+
+has, or the project
+requires products and materials.
+
+18
+
+
+12
+00:00:47,200 --> 00:00:50,740
+
+Second, you document
+your procurement processes.
+
+19
+
+
+13
+00:00:51,190 --> 00:00:52,570
+
+Who handles procurement?
+
+
+
+20
+14
+00:00:52,990 --> 00:00:57,880
+
+Is it the purchasing department, the project
+team or a combination of the two?
+
+
+
+21
+15
+00:00:58,390 --> 00:01:04,420
+
+The plan describes criteria for choosing
+vendors, the selection process, types of
+
+22
+
+
+16
+00:01:04,420 --> 00:01:08,230
+
+contracts you use and how
+you manage those contracts.
+
+
+23
+
+17
+00:01:09,100 --> 00:01:13,480
+
+Fortunately, you usually don't have
+to invent all these processes.
+
+24
+
+
+18
+00:01:13,900 --> 00:01:18,200
+
+Most organizations already have
+procurement processes in place.
+
+25
+
+
+19
+00:01:18,820 --> 00:01:23,070
+
+Talk to your purchasing department or finance
+group to find out how it's done.
+
+26
+
+
+20
+00:01:24,110 --> 00:01:31,550
+
+Third, you describe your make or buy decision
+process, basically how you decide whether to
+
+27
+
+
+21
+00:01:31,550 --> 00:01:35,180
+
+use in-house products or
+services or procure them.
+
+28
+
+
+22
+00:01:36,110 --> 00:01:41,000
+
+To make an informed make or buy
+decision, it's important to understand your needs.
+
+29
+
+
+23
+00:01:41,540 --> 00:01:45,650
+
+Make sure your requirements are
+clear and then prioritize them.
+
+30
+
+
+24
+00:01:46,220 --> 00:01:49,940
+
+That way, it's easier to pick
+products that meet your requirements.
+
+
+
+31
+25
+00:01:50,570 --> 00:01:54,200
+
+Plus, you can resist bells
+and whistles you don't need.
+
+
+
+32
+26
+00:01:55,260 --> 00:02:01,470
+
+You have to see if a product that meets
+your needs is available, if it is, evaluate how
+
+
+
+33
+27
+00:02:01,470 --> 00:02:03,420
+
+it matches up with your requirements.
+
+34
+
+
+28
+00:02:04,470 --> 00:02:10,830
+
+Before you finalize your decision, consider the pros
+and cons of making versus buying if
+
+
+35
+
+
+29
+00:02:10,830 --> 00:02:16,180
+
+your project is on a tight timeline,
+buying is probably the right choice.
+
+36
+
+
+30
+00:02:16,980 --> 00:02:22,620
+
+The last part of the procurement plan is a
+list of potential vendors who offer what you
+
+
+
+37
+31
+00:02:22,620 --> 00:02:28,950
+
+need to purchase. Describe how you researched
+vendors and contractors and the criteria
+
+
+
+38
+32
+00:02:28,950 --> 00:02:30,540
+
+for developing the list.
+
+39
+
+
+33
+00:02:31,540 --> 00:02:37,000
+
+Procurement planning helps you make smart
+decisions about whether to purchase products
+
+
+
+40
+34
+00:02:37,000 --> 00:02:43,510
+
+and services, and if you do, which products
+and services to procure as an exercise,
+
+
+
+41
+35
+00:02:43,750 --> 00:02:49,120
+
+identify some of the criteria you might
+use to choose the scheduling system vendor.

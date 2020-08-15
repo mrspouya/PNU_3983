@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ford Folkerson algorithm</title>
+    <link href="//db.onlinewebfonts.com/c/766132c828a90cbecf6f7f4027d12725?family=IRAN+Sans" rel="stylesheet" type="text/css"/>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="lib/css/vis.min.css" rel="stylesheet" type="text/css">
+    <link href="lib/css/vis-network.min.css" rel="stylesheet" type="text/css">
+    <link href="lib/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <script src="lib/js/vis.min.js"></script>
+    <script src="lib/js/vis-network.min.js"></script>
+    <script src="lib/js/jquery.min.js"></script>
+    <script src="lib/js/jquery-ui.js"></script>
+    <script src="lib/js/popper.min.js"></script>
+    <script src="lib/js/bootstrap.min.js"></script>
+    <script src="lib/js/fontawesome.js"></script>
+    <script src="js/stored_graphs.js"></script>
+    <script src="js/network_graph.js"></script>
+    <script src="js/core.js"></script>
+</head>
+<body>
+
+
+<div class="container-fluid" style="padding: 0px">
+
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-9">
+                <div class="row">
+                    <div class="col-9">
+
+                        <small style="font-family: 'IRANSansMobile'">مسیر مورد نظرتان را وارد کنید : </small>
+                        <br>
+                        <input type="text" id="ap" placeholder="s,a,b,t">
+                        </label>
+
+                        <button style="font-family: 'IRANSansMobile'" OnClick="ng.applyPath(document.getElementById('ap').value)" class="btn btn-primary" id="apply_path">محاسبه بیشترین جریان مسیر</button>
+
+                        <br>
+
+                        <label style="font-family: 'IRANSansMobile' ">
+                            <input type="checkbox" id="stepbystep" OnChange="$('#stepbystep_').prop('checked', this.checked)"> محاسبه قدم به قدم
+                        </label>
+
+                        <br>
+
+                        Source:
+                        <input type="text" value="s" id="source" style="width: 50px">
+                        Destination:
+                        <input type="text" value="t" id="dest" style="width: 50px">
+                        &nbsp;&nbsp;
+                        <button style="font-family: 'IRANSansMobile'" class="btn btn-success" OnClick="ng.updateSourceDest()">آپدیت کردن شروع و پایان</button>
+                        <br>
+                        <br>
+
+                        <h4 style="font-family: 'IRANSansMobile'">ماکزیمم جریان : <strong style="font-family: 'IRANSansMobile'" id="maxflow">0</strong></h4>
+                    </div>
+
+                    <div class="col-3">
+                        <button style="font-family: 'IRANSansMobile'" class="btn btn-success" id="start"  OnClick="start()">شروع</button>
+                        <button style="font-family: 'IRANSansMobile'" class="btn btn-info"    id="back"   OnClick="back()">قبلی</button>
+                        <button style="font-family: 'IRANSansMobile'" class="btn btn-primary" id="next"   OnClick="next()">بعدی</button>
+                        <button style="font-family: 'IRANSansMobile'" class="btn btn-danger"  id="finish" OnClick="finish()">پایان</button>
+
+                        <br>
+                        <br>
+
+                        <h2 id="c_p"></h2>
+                        <h2 class="text-danger" id="error"></h2>
+                    </div>
+                </div>
+
+                <div id="network-popUp" class="network-popup">
+                    <span style="font-family: 'IRANSansMobile'" id="operation">گره</span> <br>
+                    <table style="margin:auto;">
+                        <tr>
+                            <td style="font-family: 'IRANSansMobile'">نام</td>
+                            <td><input id="node-label" value="z"></td>
+                        </tr>
+                    </table>
+                    <br>
+                    <input style="font-family: 'IRANSansMobile'" type="button" value="ذخیره"   id="saveButton"   class="btn btn-primary">
+                    <input style="font-family: 'IRANSansMobile'" type="button" value="انصراف" id="cancelButton" class="btn btn-danger">
+                </div>
+
+                <div id="network-popUp-edge" class="network-popup">
+                    <span style="font-family: 'IRANSansMobile'" id="operation-edge">یال</span> <br>
+                    <table style="margin:auto;">
+                        <tr>
+                            <td style="font-family: 'IRANSansMobile'">ظرفیت</td>
+                            <td><input style="font-family: 'IRANSansMobile'" type="number" id="edge-capacity" value="10"></td>
+                        </tr>
+                    </table>
+                    <br>
+                    <input style="font-family: 'IRANSansMobile'" type="button" value="ذخیره"   id="saveButton-edge"   class="btn btn-primary">
+                    <input style="font-family: 'IRANSansMobile'" type="button" value="انصراف" id="cancelButton-edge" class="btn btn-danger">
+                </div>
+
+                <div id="network"></div>
+
+            </div>
+
+            <div class="col-3 text-center">
+
+                <div class="card border-primary mb-3">
+                    <div class="card-header">
+                        <strong style="font-family: 'IRANSansMobile'" class="text-primary">
+                            ذخیره یا بارگذاری گراف
+                            &nbsp;&nbsp;
+                            <em class="fa fa-toggle-on toggle-button"  id="load-save-on"  OnClick="toggleMenu('load-save', 'on')" style="display: none;"></em>
+                            <em class="fa fa-toggle-off toggle-button" id="load-save-off" OnClick="toggleMenu('load-save', 'off')"></em>
+                        </strong>
+                    </div>
+                    <div class="card-body" id="load-save" style="display: none">
+                        <input type="file" id="load-file" OnChange="readTextFile(this)" style="display: none">
+                        <small style="font-family: 'IRANSansMobile'" >نام گراف :</small>
+                        <input type="text" value="myGraph" id="graph-name" class="form-control">
+
+                        <br>
+
+                        <button style="font-family: 'IRANSansMobile'"  class="btn btn-sm btn-info" OnClick="ng.saveGraph()">ذخیره گراف</button>
+                        <button style="font-family: 'IRANSansMobile'"  class="btn btn-sm btn-primary" OnClick="document.getElementById('load-file').click();">بارگذاری گراف</button>
+                    </div>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="saveModal" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header bg-primary"></div>
+                            <div class="modal-body">
+                                <h2 style="font-family: 'IRANSansMobile'"  class="text-primary">گراف با موفقیت لود شد!</h2>
+                            </div>
+                            <div class="modal-footer">
+                                <button style="font-family: 'IRANSansMobile'"  type="button" class="btn btn-danger" data-dismiss="modal">بستن</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card border-primary mb-3">
+                    <div class="card-header">
+                        <strong style="font-family: 'IRANSansMobile'"  class="text-primary">
+                            تنظیمات
+                            &nbsp;&nbsp;
+                            <em class="fa fa-toggle-on toggle-button"  id="settings-on"  OnClick="toggleMenu('settings', 'on')" style="display: none;"></em>
+                            <em class="fa fa-toggle-off toggle-button" id="settings-off" OnClick="toggleMenu('settings', 'off')"></em>
+                        </strong>
+                    </div>
+                    <div class="card-body" id="settings" style="display: none">
+                        <select id="graphs" OnChange="ng.changeGraph(this.value)" class="form-control">
+                            <option style="font-family: 'IRANSansMobile'"  value="--">--</option>
+                            <option style="font-family: 'IRANSansMobile'"  value="0" selected="selected">گراف مثال ۱</option>
+                            <option style="font-family: 'IRANSansMobile'"  value="1">گراف مثال ۲</option>
+                            <!-- <option value="2">Graph 3</option> -->
+                        </select>
+
+                        <br>
+                        <button style="font-family: 'IRANSansMobile'" class="btn btn-sm btn-success" OnClick="ng.newGraph()"><em class="fa fa-plus"></em>گراف جدید</button>
+
+                        <button style="font-family: 'IRANSansMobile'" class="btn btn-success btn-sm" OnClick="ng.togglePhysics()">
+                            <em class="fa fa-times" id="p_off" style="display: none; font-size: 15px"></em>
+                            <em class="fa fa-check" id="p_on" style="font-size: 15px"></em>
+                            حالت شناور
+                        </button>
+
+                        <p></p>
+                        <button style="font-family: 'IRANSansMobile'" class="btn btn-sm btn-danger" OnClick="ng.resetGraph()"><em class="fa fa-sync"></em>ریست کردن</button>
+                    </div>
+                </div>
+
+                <div class="card border-primary mb-3">
+                    <div class="card-header">
+                        <strong style="font-family: 'IRANSansMobile'" class="text-primary">
+                            مسیرها
+                            &nbsp;&nbsp;
+                            <em class="fa fa-toggle-on toggle-button"  id="paths-on"  OnClick="toggleMenu('paths', 'on')"></em>
+                            <em class="fa fa-toggle-off toggle-button" id="paths-off" OnClick="toggleMenu('paths', 'off')" style="display: none;"></em>
+                        </strong>
+                    </div>
+                    <div style="font-family: 'IRANSansMobile'" class="card-body" id="paths">
+                        <!--نمایش بر اساس :-->
+                        <!--<br>-->
+                        <!--<button style="font-family: 'IRANSansMobile'" class="btn btn-sm btn-info"    OnClick="ng.order = 'lexicographical'; ng.load_paths()">Lexicographical</button>-->
+                        <!--<button style="font-family: 'IRANSansMobile'" class="btn btn-sm btn-success" OnClick="ng.order = 'edmonds'; ng.load_paths()">Edmonds</button>-->
+
+                        <!--<br>-->
+                        <!--<br>-->
+
+                        <label style="font-family: 'IRANSansMobile'">
+                            <input type="checkbox" id="stepbystep_" OnChange="$('#stepbystep').prop('checked', this.checked)"> محاسبه قدم به قدم مسیرها
+                        </label>
+
+                        <p class="card-text" id="list-paths"></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<br>
+
+</body>
+
+</html>

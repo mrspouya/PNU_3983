@@ -1,0 +1,309 @@
+1
+1
+00:00:00,680 --> 00:00:06,410
+
+You've already put a lot of planning into your
+project, the next step is to plan for what
+
+2
+
+2
+00:00:06,410 --> 00:00:12,530
+
+could go wrong because, you know, something
+will instead of asking for an adrenaline
+
+
+
+4
+3
+00:00:12,530 --> 00:00:18,470
+
+rush, why not identify what could go wrong so
+you can plan ahead for dealing with issues?
+
+
+5
+4
+00:00:19,420 --> 00:00:26,230
+
+Let's start with risks you're aware of,
+they're called known unknowns, things like
+
+
+
+6
+5
+00:00:26,230 --> 00:00:29,720
+
+weather delays or
+resources being unavailable.
+
+7
+
+6
+00:00:30,490 --> 00:00:34,990
+
+Let's look at some examples of things
+that can introduce risk to projects.
+
+
+
+8
+7
+00:00:35,880 --> 00:00:42,660
+
+Technology, it might cost more than you expect, not
+work the way it's supposed to or not
+
+9
+
+
+8
+00:00:42,660 --> 00:00:44,130
+
+show up when you need it.
+
+10
+
+
+9
+00:00:44,760 --> 00:00:48,300
+
+A widely dispersed project
+team can increase risk.
+
+11
+
+
+10
+00:00:49,140 --> 00:00:54,540
+
+You could have delays due to
+time zone differences, miscommunication from different
+
+11
+
+12
+
+00:00:54,540 --> 00:01:00,420
+languages or cultures, or lack of teamwork
+because remote team members haven't developed
+
+13
+
+
+12
+00:01:00,420 --> 00:01:02,280
+
+effective working relationships.
+
+14
+
+
+13
+00:01:03,450 --> 00:01:08,940
+
+Lack of detail, like specifics on deliverables, due
+dates or who will work on your
+
+15
+
+
+14
+00:01:08,940 --> 00:01:12,270
+
+project can lead to all sorts of problems.
+
+16
+
+
+15
+00:01:13,080 --> 00:01:19,140
+Limited options, like people with rare skills
+increase risk because you don't have easy
+
+17
+
+
+16
+00:01:19,140 --> 00:01:22,560
+
+alternatives to apply if a problem arises.
+
+18
+
+
+17
+00:01:23,710 --> 00:01:30,070
+
+Work with everyone on your team to identify
+risks, you can ask experts for different
+
+19
+
+
+18
+00:01:30,070 --> 00:01:36,070
+
+parts of the project about the risks they foresee
+as key people on the project, what they
+
+20
+
+
+19
+00:01:36,070 --> 00:01:40,930
+
+think and ask other project managers
+about risks from similar projects.
+
+21
+
+
+20
+00:01:41,920 --> 00:01:49,270
+
+Fill out a risk information form for each risk
+you identify, include as much detail as you
+
+21
+00:
+
+22
+01:49,270 --> 00:01:56,260
+
+can, which objectives are in danger, what events
+can cause the risk to occur, what the
+
+22
+00:
+01:56,260 --> 00:01:59,890
+
+23
+
+consequences are, who owns the
+risk, and so on.
+
+
+
+24
+23
+00:02:01,110 --> 00:02:07,320
+
+Up until now, we've talked about risks we can
+anticipate, but what do you do about the
+
+
+
+25
+24
+00:02:07,320 --> 00:02:09,060
+
+risks you can't predict?
+
+26
+
+
+25
+00:02:09,960 --> 00:02:17,130
+
+These are called unknown unknowns, they come
+from situations that are so unlikely that
+
+
+
+27
+26
+00:02:17,130 --> 00:02:23,430
+
+they never occur to you the 9/11 attack
+was an event that no one thought possible.
+
+
+28
+
+27
+00:02:24,390 --> 00:02:30,090
+
+You're unlikely to have to deal with such
+a significant unknown risk, but you will
+
+29
+
+
+28
+00:02:30,090 --> 00:02:34,620
+
+encounter unknown risks at some point and
+you need to plan for them.
+
+
+30
+
+29
+00:02:35,230 --> 00:02:40,750
+
+How? By setting aside contingency funds
+and time for dealing with them.
+
+
+
+31
+30
+00:02:41,580 --> 00:02:44,920
+
+The question is, how much
+should you set aside?
+
+32
+
+
+31
+00:02:45,420 --> 00:02:51,690
+
+Many companies use a percentage of the project
+budget like 15 percent, but the percentage
+
+33
+
+
+32
+00:02:51,690 --> 00:02:54,420
+
+is typically based on past experience.
+
+34
+
+
+33
+00:02:55,170 --> 00:03:01,200
+
+To minimize the effect of risks, you first
+have to identify the risks that your project
+
+35
+
+
+34
+00:03:01,200 --> 00:03:08,250
+
+faces. Try to identify several risks that
+the hospital scheduling project might face for
+
+36
+
+
+35
+00:03:08,250 --> 00:03:09,290
+
+an extra challenge.
+
+37
+
+
+36
+00:03:09,330 --> 00:03:14,730
+
+Use the risk information form in the
+exercise files to document the risks.

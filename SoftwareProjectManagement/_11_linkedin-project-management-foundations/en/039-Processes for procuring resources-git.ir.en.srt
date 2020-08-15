@@ -1,0 +1,381 @@
+1
+1
+00:00:00,500 --> 00:00:06,140
+
+For initiating and planning, you might work with
+a small core team before you begin
+
+
+
+2
+2
+00:00:06,140 --> 00:00:11,750
+
+executing project work, you bring on the rest
+of the team and acquire needed equipment
+
+
+
+3
+3
+00:00:11,750 --> 00:00:17,960
+
+and materials. If team members come from
+within your organization, procurement might be
+
+4
+
+
+4
+00:00:17,960 --> 00:00:22,760
+
+as simple as telling your in-house team
+it's time to start your assignments.
+
+5
+
+
+5
+00:00:23,710 --> 00:00:29,290
+
+For resources outside your organization, the procurement
+process has a few more steps
+
+6
+
+
+6
+00:00:29,920 --> 00:00:36,940
+
+solicitation, evaluation, selection, contracting
+and ongoing management.
+
+
+
+7
+7
+00:00:37,900 --> 00:00:43,630
+
+These steps can take time, so be sure to
+leave room in your schedule for performing them.
+
+8
+
+
+8
+00:00:44,530 --> 00:00:50,790
+
+Solicitation often begins with a request
+for proposal abbreviated as RFP.
+
+9
+
+9
+00:00:51,340 --> 00:00:55,180
+
+It's a typical way to ask
+vendors for proposals or bids.
+
+10
+
+
+10
+00:00:56,050 --> 00:01:01,420
+
+An RFP describes the services or resources
+you need when you need them.
+
+11
+
+
+11
+00:01:01,420 --> 00:01:07,840
+
+And your budget for the work include the criteria
+you plan to use to select a vendor so
+
+12
+
+
+12
+00:01:07,840 --> 00:01:10,630
+
+companies can decide whether or not to bid.
+
+13
+
+
+13
+00:01:11,550 --> 00:01:17,520
+
+Don't forget to include instructions and the
+deadline for submitting a proposal and the
+
+
+
+14
+14
+00:01:17,520 --> 00:01:19,470
+
+date you'll announce your decision.
+
+
+
+15
+15
+00:01:20,970 --> 00:01:26,610
+
+Once you have all the vendors, proposals or
+bids, you hunker down and evaluate the
+
+
+
+16
+16
+00:01:26,610 --> 00:01:32,310
+
+responses using your criteria, how you select
+the winner depends on the size and
+
+
+
+17
+17
+00:01:32,310 --> 00:01:33,870
+
+complexity of the project.
+
+18
+
+
+18
+00:01:34,620 --> 00:01:41,010
+
+Evaluation and selection might be as easy as
+filling in a spreadsheet with ratings and
+
+
+
+19
+19
+00:01:41,010 --> 00:01:43,070
+
+choosing the vendor with the highest score.
+
+20
+
+
+20
+00:01:44,040 --> 00:01:50,010
+
+For large jobs, you might whittle the submissions down
+to a short list of vendors and ask
+
+
+
+21
+21
+00:01:50,010 --> 00:01:56,520
+
+each one in the second round to prepare
+a more detailed presentation or demonstrate what
+
+22
+
+
+22
+00:01:56,550 --> 00:01:57,630
+
+they have to offer.
+
+23
+
+
+23
+00:01:58,490 --> 00:02:03,920
+
+For example, in the scheduling system project, you
+might ask the top two candidates to
+
+24
+
+
+24
+00:02:03,920 --> 00:02:09,500
+
+demonstrate their systems and show
+how features satisfy project requirements.
+
+
+25
+
+25
+00:02:10,040 --> 00:02:15,650
+
+Contracting is when you prepare and sign
+a contract for the resources you need.
+
+
+
+26
+26
+00:02:16,670 --> 00:02:22,850
+
+Contracts usually include a statement of
+work terms and conditions, deliverables,
+
+27
+
+
+27
+00:02:22,850 --> 00:02:25,670
+
+deadlines and, of course, the price.
+
+28
+
+
+28
+00:02:27,290 --> 00:02:34,040
+
+Contracts fall into several categories, fixed price
+contracts work when your project is
+
+29
+
+
+29
+00:02:34,040 --> 00:02:40,100
+
+well defined, this type of contract places the
+risk on the vendor because the vendor is
+
+
+
+30
+30
+00:02:40,100 --> 00:02:45,590
+
+paid a fixed amount, no matter how much time
+the work takes or how much it costs.
+
+
+
+31
+31
+00:02:46,250 --> 00:02:50,720
+
+Time and materials contracts pay for
+time worked and expenses incurred.
+
+32
+
+
+32
+00:02:51,260 --> 00:02:53,840
+
+The project accepts most of the risk.
+
+
+
+33
+33
+00:02:53,870 --> 00:02:59,280
+
+So it's common to include and not
+to exceed value to limit the price.
+
+34
+
+
+34
+00:02:59,870 --> 00:03:06,440
+
+A cost plus contract is like time and
+materials with the addition of penalties or rewards
+
+35
+
+
+35
+00:03:06,770 --> 00:03:08,420
+
+based on the vendors performance.
+
+
+
+36
+36
+00:03:09,140 --> 00:03:15,470
+
+With a retainer, you agree to pay for a
+specified amount of time and define the work as
+
+37
+
+
+37
+00:03:15,470 --> 00:03:22,570
+
+you go. Complete procurement steps early enough,
+so the resources you need are available
+
+38
+00:
+
+38
+03:22,570 --> 00:03:23,930
+
+when work begins.
+
+39
+
+
+39
+00:03:24,370 --> 00:03:30,460
+
+For example, if your project requires materials
+with long lead times, you'll need to
+
+
+
+40
+40
+00:03:30,460 --> 00:03:32,080
+
+start procurement early.
+
+41
+
+
+41
+00:03:32,650 --> 00:03:39,190
+
+After you award contracts, you don't sit back
+and relax while project work is underway.
+
+
+
+42
+42
+00:03:39,200 --> 00:03:46,030
+
+You manage those contracts, monitor the vendor
+performance and manage any changes for
+
+
+43
+
+43
+00:03:46,030 --> 00:03:52,24
+0
+practice. Think about which type of contract you
+would use for the scheduling system and
+
+
+
+44
+44
+00:03:52,240 --> 00:03:52,660
+
+why.

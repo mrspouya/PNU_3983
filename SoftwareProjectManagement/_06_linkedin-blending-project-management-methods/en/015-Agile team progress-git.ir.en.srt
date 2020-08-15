@@ -1,0 +1,592 @@
+1
+
+00:00:01,00 --> 00:00:03,00
+- Agile teams track their progress
+
+
+
+2
+
+00:00:03,00 --> 00:00:05,04
+
+very differently than Waterfall teams.
+
+
+
+3
+
+00:00:05,04 --> 00:00:08,08
+
+Specifically, where Waterfall teams track their progress
+
+
+
+4
+
+00:00:08,08 --> 00:00:13,03
+
+by milestones and time, Agile teams track their progress
+
+
+
+5
+
+00:00:13,03 --> 00:00:16,05
+
+by completion of distinct features.
+
+
+
+6
+
+00:00:16,05 --> 00:00:20,03
+
+Time is tracked, but only as a way of managing commitment,
+
+
+
+7
+
+00:00:20,03 --> 00:00:23,01
+
+not to report on achievement.
+
+
+
+8
+
+00:00:23,01 --> 00:00:26,04
+
+So when Agile teams are estimating their features
+
+
+
+9
+
+00:00:26,04 --> 00:00:29,03
+
+and user stories, they use story points.
+
+
+
+10
+
+00:00:29,03 --> 00:00:32,06
+
+Story points are simply a method for relatively sizing
+
+
+
+11
+
+00:00:32,06 --> 00:00:36,00
+
+the effort needed to get the work item done.
+
+
+
+12
+
+00:00:36,00 --> 00:00:39,05
+
+So a story, then, is a collection of tasks
+
+
+
+13
+
+00:00:39,05 --> 00:00:41,05
+
+that will get the work item completed.
+
+
+
+14
+
+00:00:41,05 --> 00:00:45,01
+
+And those steps, those tasks, include everything
+
+
+
+15
+
+00:00:45,01 --> 00:00:50,01
+
+from design to build to test, and even user acceptance.
+
+
+
+16
+
+00:00:50,01 --> 00:00:52,05
+
+So just like Waterfall teams, Agile teams
+
+
+
+17
+
+00:00:52,05 --> 00:00:54,08
+
+also track at multiple levels.
+
+
+
+18
+
+00:00:54,08 --> 00:00:58,02
+
+The primary method of tracking is at the sprint level.
+
+
+
+19
+
+00:00:58,02 --> 00:01:01,02
+
+At the sprint level, Agile teams use a burndown chart
+
+
+
+20
+
+00:01:01,02 --> 00:01:04,06
+
+to help them understand where they are relative to
+
+
+
+21
+
+00:01:04,06 --> 00:01:08,02
+
+their overall commitment to work items for the sprint.
+
+
+
+22
+
+00:01:08,02 --> 00:01:10,03
+
+That chart is updated every day
+
+
+
+23
+
+00:01:10,03 --> 00:01:12,04
+
+and reviewed at the daily scrum,
+
+
+
+24
+
+00:01:12,04 --> 00:01:15,05
+
+so everyone on the team knows how they're doing
+
+
+
+25
+
+00:01:15,05 --> 00:01:18,00
+
+compared to what they committed to.
+
+
+
+26
+
+00:01:18,00 --> 00:01:19,07
+
+Looking at this burndown chart,
+
+
+
+27
+
+00:01:19,07 --> 00:01:21,05
+
+we can see that the team committed
+
+
+
+28
+
+00:01:21,05 --> 00:01:24,03
+
+to 28 points in the sprint.
+
+
+
+29
+
+00:01:24,03 --> 00:01:27,06
+
+The ideal line tells the team where they should be
+
+
+
+30
+
+00:01:27,06 --> 00:01:30,06
+
+if the work committed to were equally allocated
+
+
+
+31
+
+00:01:30,06 --> 00:01:33,03
+
+across all the days of the sprint.
+
+
+
+32
+
+00:01:33,03 --> 00:01:37,02
+
+The actual line tells the team where they really are.
+
+
+
+33
+
+00:01:37,02 --> 00:01:40,07
+
+This enables the team to take corrective action every day
+
+
+
+34
+
+00:01:40,07 --> 00:01:43,00
+
+if things aren't going well.
+
+
+
+35
+
+00:01:43,00 --> 00:01:45,03
+
+Each day the team will review the chart,
+
+
+
+36
+
+00:01:45,03 --> 00:01:48,07
+
+and see how they're doing and if anyone is stuck,
+
+
+
+37
+
+00:01:48,07 --> 00:01:50,08
+
+will offer to help them out.
+
+
+
+38
+
+00:01:50,08 --> 00:01:53,06
+
+When it comes to tracking progress for a release,
+
+
+
+39
+
+00:01:53,06 --> 00:01:57,07
+
+or a whole project, the team can use a burnup chart.
+
+
+
+40
+
+00:01:57,07 --> 00:01:59,06
+
+Let's look at an example.
+
+
+
+41
+
+00:01:59,06 --> 00:02:04,00
+
+In this chart, you can see that the team has 250 points left
+
+
+
+42
+
+00:02:04,00 --> 00:02:07,02
+
+to finish for this release or project.
+
+
+
+43
+
+00:02:07,02 --> 00:02:10,05
+
+The line across the top of the chart is the scope.
+
+
+
+44
+
+00:02:10,05 --> 00:02:14,03
+
+If scope on this project changes, this will fluctuate.
+
+
+
+45
+
+00:02:14,03 --> 00:02:18,02
+
+The dashed line reflects idealized progress
+
+
+
+46
+
+00:02:18,02 --> 00:02:21,02
+
+toward that scope total each sprint.
+
+
+
+47
+
+00:02:21,02 --> 00:02:23,06
+
+In this example, we can see that the team
+
+
+
+48
+
+00:02:23,06 --> 00:02:26,09
+
+fell behind in sprint three, and it has taken them
+
+
+
+49
+
+00:02:26,09 --> 00:02:30,01
+
+all the way until sprint six to catch up.
+
+
+
+50
+
+00:02:30,01 --> 00:02:34,06
+
+These charts are how Agile teams manage scope and time.
+
+
+
+51
+
+00:02:34,06 --> 00:02:38,00
+
+In Agile, cost is a direct expression
+
+
+
+52
+
+00:02:38,00 --> 00:02:41,07
+
+of the amount of time a team will spend on the project.
+
+
+
+53
+
+00:02:41,07 --> 00:02:45,00
+
+Remember, in Agile time and cost are fixed.
+
+
+
+54
+
+00:02:45,00 --> 00:02:47,02
+
+Only scope flexes.
+
+
+
+55
+
+00:02:47,02 --> 00:02:50,02
+
+For this team, let's assume they're a team of seven
+
+
+
+56
+
+00:02:50,02 --> 00:02:53,02
+
+and are working in two week sprints of 10 days.
+
+
+
+57
+
+00:02:53,02 --> 00:02:57,00
+
+If the team members cost $100 per day,
+
+
+
+58
+
+00:02:57,00 --> 00:03:03,00
+
+then this team costs 7 times $100, or $700 per day.
+
+
+
+59
+
+00:03:03,00 --> 00:03:07,04
+
+At $700 per day, the sprint costs $7000
+
+
+
+60
+
+00:03:07,04 --> 00:03:09,07
+
+because it's 10 days long.
+
+
+
+61
+
+00:03:09,07 --> 00:03:13,02
+
+We can see this project is going to last eight sprints.
+
+
+
+62
+
+00:03:13,02 --> 00:03:17,08
+
+That duration, 8 sprints times $7000 per sprint,
+
+
+
+63
+
+00:03:17,08 --> 00:03:22,09
+
+means this release or project will cost $56000.
+
+
+
+64
+
+00:03:22,09 --> 00:03:25,07
+
+If scope were to increase or decrease,
+
+
+
+65
+
+00:03:25,07 --> 00:03:27,09
+
+using this same simple formula,
+
+
+
+66
+
+00:03:27,09 --> 00:03:31,09
+
+we can easily project what additional scope will cost.
+
+
+
+67
+
+00:03:31,09 --> 00:03:33,09
+
+As you can see, Agile takes
+
+
+
+68
+
+00:03:33,09 --> 00:03:36,08
+
+tracking progress very seriously.
+
+
+
+69
+
+00:03:36,08 --> 00:03:39,09
+
+Every sprint is a milestone, and every day
+
+
+
+70
+
+00:03:39,09 --> 00:03:42,06
+
+is a chance to review their progress.
+
+
+
+71
+
+00:03:42,06 --> 00:03:44,05
+
+Now you understand how Agile
+
+
+
+72
+
+00:03:44,05 --> 00:03:47,00
+
+tracks progress on a daily basis.
+
+
+
+73
+
+00:03:47,00 --> 00:03:51,06
+
+You also understand how project progress is easily visible.
+
+
+
+74
+
+00:03:51,06 --> 00:03:55,02
+
+Now you're ready to share that knowledge with your leaders.
+
+
+
+

@@ -1,0 +1,654 @@
+1
+
+00:00:00,09 --> 00:00:03,02
+- Independent projects are fairly simple
+
+
+
+2
+
+00:00:03,02 --> 00:00:04,06
+
+to manage and track.
+
+
+
+3
+
+00:00:04,06 --> 00:00:07,03
+
+Things get a little trickier when you have projects
+
+
+
+4
+
+00:00:07,03 --> 00:00:09,04
+
+that are dependent on each other.
+
+
+
+5
+
+00:00:09,04 --> 00:00:13,04
+
+Remember, a program is simply a group of related projects.
+
+
+
+6
+
+00:00:13,04 --> 00:00:17,09
+
+Each project has a portion of the overall program goal.
+
+
+
+7
+
+00:00:17,09 --> 00:00:21,07
+
+It's also good to remember that all the independent projects
+
+
+
+8
+
+00:00:21,07 --> 00:00:24,03
+
+plus all the programs together make up
+
+
+
+9
+
+00:00:24,03 --> 00:00:27,09
+
+the whole portfolio of work in your organization.
+
+
+
+10
+
+00:00:27,09 --> 00:00:30,04
+
+So, how do you take the project level reporting
+
+
+
+11
+
+00:00:30,04 --> 00:00:34,01
+
+and pull it tother into a program or portfolio?
+
+
+
+12
+
+00:00:34,01 --> 00:00:36,06
+
+And really, the hardest question is
+
+
+
+13
+
+00:00:36,06 --> 00:00:38,07
+
+how do you create a cohesive view
+
+
+
+14
+
+00:00:38,07 --> 00:00:41,00
+
+into the health of your portfolio
+
+
+
+15
+
+00:00:41,00 --> 00:00:44,07
+
+when you have both Agile and Waterfall projects.
+
+
+
+16
+
+00:00:44,07 --> 00:00:46,08
+
+Well, let's start with the basics.
+
+
+
+17
+
+00:00:46,08 --> 00:00:49,06
+
+We know that in Waterfall time, cost,
+
+
+
+18
+
+00:00:49,06 --> 00:00:52,01
+
+and scope are all locked at the beginning.
+
+
+
+19
+
+00:00:52,01 --> 00:00:54,01
+
+At a minimum, these three data points
+
+
+
+20
+
+00:00:54,01 --> 00:00:56,03
+
+need to be represented for the projects,
+
+
+
+21
+
+00:00:56,03 --> 00:00:58,04
+
+the programs, and the whole portfolio.
+
+
+
+22
+
+00:00:58,04 --> 00:01:02,06
+
+In Agile, we know that time and cost are fixed,
+
+
+
+23
+
+00:01:02,06 --> 00:01:04,08
+
+but scope is flexible.
+
+
+
+24
+
+00:01:04,08 --> 00:01:08,02
+
+Now, are the teams really building anything they want?
+
+
+
+25
+
+00:01:08,02 --> 00:01:09,03
+
+Of course not.
+
+
+
+26
+
+00:01:09,03 --> 00:01:12,06
+
+There's still a desired outcome that guides the work.
+
+
+
+27
+
+00:01:12,06 --> 00:01:16,00
+
+It's not specific scope items we need in site two,
+
+
+
+28
+
+00:01:16,00 --> 00:01:19,04
+
+it's progress toward that overall objective.
+
+
+
+29
+
+00:01:19,04 --> 00:01:22,04
+
+So, while similar, these are different enough
+
+
+
+30
+
+00:01:22,04 --> 00:01:25,05
+
+that we need to find a way to create a report
+
+
+
+31
+
+00:01:25,05 --> 00:01:29,03
+
+that's accurate for both Waterfall and Agile projects
+
+
+
+32
+
+00:01:29,03 --> 00:01:32,01
+
+in programs in our portfolio.
+
+
+
+33
+
+00:01:32,01 --> 00:01:35,02
+
+As you know, each individual project
+
+
+
+34
+
+00:01:35,02 --> 00:01:38,08
+
+usually reports their status to a program manager.
+
+
+
+35
+
+00:01:38,08 --> 00:01:42,02
+
+One of the program managers, or the portfolio leader,
+
+
+
+36
+
+00:01:42,02 --> 00:01:44,08
+
+pulls everything together for a cohesive view
+
+
+
+37
+
+00:01:44,08 --> 00:01:47,00
+
+into the whole portfolio.
+
+
+
+38
+
+00:01:47,00 --> 00:01:50,01
+
+Let's look at an example of portfolio reporting
+
+
+
+39
+
+00:01:50,01 --> 00:01:54,04
+
+when both Agile and Waterfall projects are in progress.
+
+
+
+40
+
+00:01:54,04 --> 00:01:57,00
+
+Let's say our portfolio leader,
+
+
+
+41
+
+00:01:57,00 --> 00:01:59,03
+
+Anaya, needs to build a report.
+
+
+
+42
+
+00:01:59,03 --> 00:02:02,06
+
+Her typical status report could look like this.
+
+
+
+43
+
+00:02:02,06 --> 00:02:04,02
+
+Notice the top row.
+
+
+
+44
+
+00:02:04,02 --> 00:02:09,00
+
+In this area, Anaya has summarized their overall portfolio.
+
+
+
+45
+
+00:02:09,00 --> 00:02:11,09
+
+She's showing the portfolio is in yellow,
+
+
+
+46
+
+00:02:11,09 --> 00:02:15,08
+
+or at risk status and trending to remain that way.
+
+
+
+47
+
+00:02:15,08 --> 00:02:20,03
+
+Then she exposes the program budget as over budget
+
+
+
+48
+
+00:02:20,03 --> 00:02:25,01
+
+and indicates that one project is triggering this status.
+
+
+
+49
+
+00:02:25,01 --> 00:02:28,04
+
+Leaders can then dive into the details below
+
+
+
+50
+
+00:02:28,04 --> 00:02:33,04
+
+to review each individual project and easily see its status.
+
+
+
+51
+
+00:02:33,04 --> 00:02:36,01
+
+The real value of this unified report
+
+
+
+52
+
+00:02:36,01 --> 00:02:39,08
+
+lies in the columns of the table below.
+
+
+
+53
+
+00:02:39,08 --> 00:02:43,04
+
+Here we can see both the schedule and scope
+
+
+
+54
+
+00:02:43,04 --> 00:02:46,03
+
+as key metrics revealing our progress.
+
+
+
+55
+
+00:02:46,03 --> 00:02:48,01
+
+We can see the planned schedule
+
+
+
+56
+
+00:02:48,01 --> 00:02:50,01
+
+with the start and finish dates,
+
+
+
+57
+
+00:02:50,01 --> 00:02:51,05
+
+then we can see the percent
+
+
+
+58
+
+00:02:51,05 --> 00:02:54,04
+
+of the schedule that has elapsed.
+
+
+
+59
+
+00:02:54,04 --> 00:02:58,09
+
+Next we see our progress toward our features or scope.
+
+
+
+60
+
+00:02:58,09 --> 00:03:02,06
+
+Remember, in Agile we track feature completion.
+
+
+
+61
+
+00:03:02,06 --> 00:03:06,00
+
+What those features are can fluctuate.
+
+
+
+62
+
+00:03:06,00 --> 00:03:08,07
+
+In Waterfall, we track scope completion.
+
+
+
+63
+
+00:03:08,07 --> 00:03:12,09
+
+Here we see the percent features or scope complete.
+
+
+
+64
+
+00:03:12,09 --> 00:03:15,08
+
+That tells our leaders how the effort is tracking
+
+
+
+65
+
+00:03:15,08 --> 00:03:19,06
+
+toward their overall progress toward their objective.
+
+
+
+66
+
+00:03:19,06 --> 00:03:21,02
+
+The projects and programs will
+
+
+
+67
+
+00:03:21,02 --> 00:03:23,01
+
+get to the number differently,
+
+
+
+68
+
+00:03:23,01 --> 00:03:25,07
+
+but both can be reflected accurately
+
+
+
+69
+
+00:03:25,07 --> 00:03:29,00
+
+and uniformly in the same report.
+
+
+
+70
+
+00:03:29,00 --> 00:03:32,01
+
+In Agile, the calculation is total completed
+
+
+
+71
+
+00:03:32,01 --> 00:03:35,01
+
+story points divided by total story points.
+
+
+
+72
+
+00:03:35,01 --> 00:03:39,05
+
+For example, an Agile project with 200 points completed
+
+
+
+73
+
+00:03:39,05 --> 00:03:43,09
+
+out of an expected 400 points is 50% complete.
+
+
+
+74
+
+00:03:43,09 --> 00:03:46,04
+
+In Waterfall, the calculation is
+
+
+
+75
+
+00:03:46,04 --> 00:03:49,01
+
+the completion of the major milestones.
+
+
+
+76
+
+00:03:49,01 --> 00:03:52,06
+
+If three major milestones have been completed out of six,
+
+
+
+77
+
+00:03:52,06 --> 00:03:55,06
+
+it too is 50% complete.
+
+
+
+78
+
+00:03:55,06 --> 00:03:59,09
+
+When your portfolio has both Agile and Waterfall projects
+
+
+
+79
+
+00:03:59,09 --> 00:04:02,02
+
+you can still use a single report
+
+
+
+80
+
+00:04:02,02 --> 00:04:05,01
+
+to share progress with your leaders.
+
+
+
+81
+
+00:04:05,01 --> 00:04:07,04
+
+When you do, you'll help them see
+
+
+
+82
+
+00:04:07,04 --> 00:04:11,04
+
+that both methodologies can live happily together.
+
+

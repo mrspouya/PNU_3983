@@ -1,0 +1,189 @@
+1
+1
+00:00:00,630 --> 00:00:07,340
+A 
+WB US identifies the work needed to complete
+a project but it doesn't tell you how long
+
+
+
+2
+2
+00:00:07,340 --> 00:00:10,640
+
+the work will take or
+when it can be performed
+
+
+
+3
+3
+00:00:11,120 --> 00:00:18,200 
+
+To do that you need to turn your list of
+tasks into a schedule first put the tasks into
+
+
+4
+
+
+
+4
+
+4
+00:00:18,200 --> 00:00:24,920
+
+the right sequence you add dependencies or links
+to tasks to identify which tasks have to
+
+5
+
+
+
+
+5
+00:00:24,920 --> 00:00:30,470
+
+finish before other tasks can start which
+tasks finish at the same time.
+
+
+6
+
+
+
+6
+00:00:30,920 --> 00:00:37,110
+ 
+And so on. For example the task
+build specs has to finish before.
+
+7
+
+
+
+7
+00:00:37,140 --> 00:00:40,280
+
+Review specs can start likewise.
+
+8
+
+
+
+8
+00:00:40,370 --> 00:00:46,760
+
+Review specs has to finish before approved specs
+can start we'll look at dependencies in
+
+
+
+9
+9
+00:00:46,760 --> 00:00:48,470
+
+detail later in the course.
+
+
+10
+
+
+
+10
+00:00:49,070 --> 00:00:57,590
+
+For now the most common dependency type is finish
+to start next you add the time you
+
+
+
+11
+11
+00:00:57,590 --> 00:01:04,340
+
+estimate each task will take time estimates and
+task sequence help determine how long the
+
+12
+
+
+
+12
+00:01:04,340 --> 00:01:12,290
+
+entire project will take third you assign the
+people on your project team to tasks with
+
+
+
+13
+13
+00:01:12,290 --> 00:01:15,290
+
+the estimated time and people
+assigned to do the work.
+
+14
+
+
+
+14
+00:01:15,350 --> 00:01:18,410
+
+You can calculate the task duration.
+
+
+
+15
+15
+00:01:19,100 --> 00:01:24,740
+
+Finally take into account other constraints
+like deadlines and when resources are
+
+16
+00:
+
+16
+01:24,740 --> 00:01:31,280
+
+available. If your initial schedule doesn't work you
+can tweak it in various ways whether
+
+
+
+17
+17
+00:01:31,280 --> 00:01:38,340
+
+you're trying to shorten the schedule cut
+costs or even out people's workloads the
+
+1
+
+18
+8
+00:01:38,340 --> 00:01:42,750
+
+schedule is one of the most
+important aspects of your project.
+
+
+19
+
+
+
+19
+00:01:43,170 --> 00:01:48,600
+
+It tells you how long the project will last and
+when you need the people who will do the
+
+20
+00:
+
+20
+01:48,600 --> 00:01:48,930
+
+work.

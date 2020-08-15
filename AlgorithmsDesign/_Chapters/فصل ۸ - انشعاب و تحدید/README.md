@@ -12,11 +12,11 @@
 
 <br>
 
-+ [فریبا محمدی پور](https://fmohammadipour.github.io/ )  
++ [فریبا محمدی پور](https://fmohammadipour.github.io/)  
   - [@fmohammadipour](https://github.com/fmohammadipour)
   
   
-+ [سحر رجبی]( )  
-  - [@](http://github.com/Saharrajabi)
++ [سحر رجبی](https://Saharrajabi.github.io/)  
+  - [@Saharrajabi](http://github.com/Saharrajabi)
 
 
